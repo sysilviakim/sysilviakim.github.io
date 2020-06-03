@@ -10,6 +10,6 @@ use-site-title: true
   <img width="300" style = "margin: 0;" src="./img/profile-19Dec01-cropped.jpg" id = "profile">
 </div>
 
-Welcome! I am a Ph.D. candidate in Social Sciences at California Institute of Technology with research interests in American Politics and Political Methodology. More specifically, I focus on political behavior such as voter turnout and campaign contributions, working with large voter registration datasets and Federal Election Commission datasets. I mainly use R and Stan to employ tools such as probabilistic record linkage, semiparametric regression, and Bayesian statistics.
+Welcome! I am an incoming Assistant Professor in the The Department of Government at American University, starting August 2020. I received my Ph.D. from California Institute of Technology. 
 
-I will start my new position as an Assistant Professor in the The Department of Government at American University, starting August 2020. 
+My research interests are in American Politics and Political Methodology, with a focus on on political behavior (registration/turnout/campaign contributions), working with large voter files and Federal Election Commission datasets. I mainly use R and Stan to employ tools such as probabilistic record linkage, semiparametrics, machine learning, and Bayesian statistics.
