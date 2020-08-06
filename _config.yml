@@ -10,6 +10,7 @@ navbar-links:
   About: "index"
   CV: "cv"
   Research: "research"
+  Teaching: "teaching"
   Blog: "blog"
   ## Programming: "programming"
 
@@ -52,10 +53,10 @@ author:
 # Select your active Social Network Links.
 social-network-links:
   rss: true
-  email: "sskim@caltech.edu"
+  email: "sskim@american.edu"
   github: sysilviakim
   twitter: sysilviakim
-  linkedin: sysilviakim
+  ## linkedin: sysilviakim
   stackoverflow: "6886345/kim"
 
 # Select which share links to show in posts
