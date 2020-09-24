@@ -8,15 +8,15 @@ published: true
 
 --------------------------------------
 
-**Kim, Seo-young Silvia, Spencer Schneider, and R. Michael Alvarez. 2019. ["Evaluating the Quality of Changes in Voter Registration Databases."](https://doi.org/10.1177/1532673X19870512) American Politics Research. Article first published online: Sep 9, 2019. DOI: 10.1177/1532673X19.**
+**Kim, Seo-young Silvia, Spencer Schneider, and R. Michael Alvarez. 2019. ["Evaluating the Quality of Changes in Voter Registration Databases."](https://doi.org/10.1177/1532673X19870512) American Politics Research 48(6): 670-676.**
 
 The administration of elections depends crucially upon the quality and integrity of voter registration databases. In addition, political scientists are increasingly using these databases in their research. However, these databases are dynamic and may be subject to external manipulation and unintentional errors. In this article, using data from Orange County, California, we develop two methods for evaluating the quality of voter registration data as it changes over time: (a) generating audit data by repeated record linkage across periodic snapshots of a given database and monitoring it for sudden anomalous changes and (b) identifying duplicates via an efficient, automated duplicate detection, and tracking new duplicates and deduplication efforts over time. We show that the generated data can serve not only to evaluate voter file quality and election integrity but also as a novel source of data on election administration practices. Package GitHub: [https://github.com/sysilviakim/voterdiffR/](https://github.com/sysilviakim/voterdiffR/)
 
-**Alvarez, R. Michael, Jonathan N. Katz, and Seo-young Silvia Kim. ["Hidden Donors: The Censoring Problem in U.S. Federal Campaign Finance Data."](http://doi.org/10.33774/apsa-2020-sdjkp) Forthcoming, Election Law Journal.**
+**Alvarez, R. Michael, Jonathan N. Katz, and Seo-young Silvia Kim. 2020. ["Hidden Donors: The Censoring Problem in U.S. Federal Campaign Finance Data."](https://www.liebertpub.com/doi/full/10.1089/elj.2019.0593) Election Law Journal: Rules, Politics, and Policy 19(1): 1–18.**
 
 Inferences about individual campaign contributors are limited by how the Federal Election Commission (FEC) collects and reports data. Only transactions that exceed a cycle-to-date total of $200 are individually disclosed, so that contribution histories of many donors are unobserved. We contrast visible donors and "hidden donors," i.e., small donors who are invisible due to censoring and routinely ignored in existing research. We use the Sanders presidential campaign in 2016, whose unique campaign structure received money only through an intermediary (or conduit) committee. These are governed by stricter disclosure statutes, allowing us to study donors who are normally hidden. For the Sanders campaign, there were seven hidden donors for every visible donor, and altogether, hidden donors were responsible for 33.8% of Sanders' campaign funds. We show that hidden donors start giving relatively later, with contributions concentrated around early primaries. We suggest that as presidential campaign strategies change towards wooing smaller donors, more research on what motivates them is necessary.
 
-**Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. "Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout." Forthcoming, Social Science Quarterly.**
+**Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. 2020. "Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout." Social Science Quarterly 101(2): 978–88.**
 
 --------------------------------------
 
