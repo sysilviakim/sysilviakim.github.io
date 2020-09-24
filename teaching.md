@@ -6,7 +6,7 @@ published: true
 
 ## Undergraduate
 
-Introduction to Political Research (GOVT-310-003): Fall 2020, American University. Link to [syllabus](https://www.dropbox.com/s/idd4uzk6yjf5z0r/kim-govt310-003-syllabus.pdf?raw=1). 
+Introduction to Political Research (GOVT-310-003): Fall 2020, American University. Link to [syllabus](https://www.dropbox.com/s/2ep1rpqak3ckkk7/kim-govt310-003-syllabus.pdf?raw=1). 
 
 ## Master's
 
