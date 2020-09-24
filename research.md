@@ -4,23 +4,25 @@ title: Research
 published: true
 ---
 
-### Selected Publication
+### Selected Publications
 
 --------------------------------------
 
-**Kim, Seo-young Silvia, Spencer Schneider, and R. Michael Alvarez. 2019. ["Evaluating the Quality of Changes in Voter Registration Databases."](https://doi.org/10.1177/1532673X19870512) American Politics Research 48(6): 670-676.**
+**Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. ["Securing Elections: How Data-Driven Election Monitoring Can Improve Democracy."]( https://www.cambridge.org/core/elements/securing-american-elections/44DB59AB97CD8538ABCC6AD0AD00CCF4) Forthcoming, Cambridge University Press.**
 
-The administration of elections depends crucially upon the quality and integrity of voter registration databases. In addition, political scientists are increasingly using these databases in their research. However, these databases are dynamic and may be subject to external manipulation and unintentional errors. In this article, using data from Orange County, California, we develop two methods for evaluating the quality of voter registration data as it changes over time: (a) generating audit data by repeated record linkage across periodic snapshots of a given database and monitoring it for sudden anomalous changes and (b) identifying duplicates via an efficient, automated duplicate detection, and tracking new duplicates and deduplication efforts over time. We show that the generated data can serve not only to evaluate voter file quality and election integrity but also as a novel source of data on election administration practices. Package GitHub: [https://github.com/sysilviakim/voterdiffR/](https://github.com/sysilviakim/voterdiffR/)
+**Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. 2020. ["Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout."](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12777) Social Science Quarterly 101(2): 978–88.**
 
 **Alvarez, R. Michael, Jonathan N. Katz, and Seo-young Silvia Kim. 2020. ["Hidden Donors: The Censoring Problem in U.S. Federal Campaign Finance Data."](https://www.liebertpub.com/doi/full/10.1089/elj.2019.0593) Election Law Journal: Rules, Politics, and Policy 19(1): 1–18.**
 
 Inferences about individual campaign contributors are limited by how the Federal Election Commission (FEC) collects and reports data. Only transactions that exceed a cycle-to-date total of $200 are individually disclosed, so that contribution histories of many donors are unobserved. We contrast visible donors and "hidden donors," i.e., small donors who are invisible due to censoring and routinely ignored in existing research. We use the Sanders presidential campaign in 2016, whose unique campaign structure received money only through an intermediary (or conduit) committee. These are governed by stricter disclosure statutes, allowing us to study donors who are normally hidden. For the Sanders campaign, there were seven hidden donors for every visible donor, and altogether, hidden donors were responsible for 33.8% of Sanders' campaign funds. We show that hidden donors start giving relatively later, with contributions concentrated around early primaries. We suggest that as presidential campaign strategies change towards wooing smaller donors, more research on what motivates them is necessary.
 
-**Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. 2020. "Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout." Social Science Quarterly 101(2): 978–88.**
+**Kim, Seo-young Silvia, Spencer Schneider, and R. Michael Alvarez. 2019. ["Evaluating the Quality of Changes in Voter Registration Databases."](https://doi.org/10.1177/1532673X19870512) American Politics Research 48(6): 670-676.**
+
+The administration of elections depends crucially upon the quality and integrity of voter registration databases. In addition, political scientists are increasingly using these databases in their research. However, these databases are dynamic and may be subject to external manipulation and unintentional errors. In this article, using data from Orange County, California, we develop two methods for evaluating the quality of voter registration data as it changes over time: (a) generating audit data by repeated record linkage across periodic snapshots of a given database and monitoring it for sudden anomalous changes and (b) identifying duplicates via an efficient, automated duplicate detection, and tracking new duplicates and deduplication efforts over time. We show that the generated data can serve not only to evaluate voter file quality and election integrity but also as a novel source of data on election administration practices. Package GitHub: [https://github.com/sysilviakim/voterdiffR/](https://github.com/sysilviakim/voterdiffR/)
 
 --------------------------------------
 
-### Selected Working Papers
+### Selected Working Paper
 
 --------------------------------------
 
