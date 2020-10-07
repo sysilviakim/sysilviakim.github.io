@@ -2,11 +2,10 @@
 layout: post
 published: true
 title: 'Caltech/MIT VTP Advisory: Making Sure That Your Vote Is Counted In 2020'
-image: 'https://github.com/sysilviakim/voterTips2020/blob/main/panel-00.jpg'
 ---
 The Caltech/MIT Voting Technology Project, which I am part of, issued an advisory PDF titled "Making Sure That Your Vote Is Counted In 2020." 
 
-![]({{site.baseurl}}/https://github.com/sysilviakim/voterTips2020/blob/main/vtp_voter_tips_2020_art.gif)
+![Alt Text](https://github.com/sysilviakim/voterTips2020/blob/main/vtp_voter_tips_2020_art.gif)
 
 The full text is below:
 
