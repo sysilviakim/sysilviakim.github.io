@@ -3,13 +3,14 @@ layout: post
 published: true
 title: 'Caltech/MIT VTP Advisory: Making Sure That Your Vote Is Counted In 2020'
 ---
+
 The Caltech/MIT Voting Technology Project, which I am part of, issued an advisory PDF titled "Making Sure That Your Vote Is Counted In 2020." 
 
-![Alt Text](https://github.com/sysilviakim/voterTips2020/blob/main/vtp_voter_tips_2020_art.gif)
+![](https://github.com/sysilviakim/voterTips2020/blob/main/vtp_voter_tips_2020_art.gif?raw=true)
 
 The full text is below:
 
-# Making Sure That Your Vote Is Counted In 2020
+## Making Sure That Your Vote Is Counted In 2020
 
 The 2020 presidential election is the first in a century to be conducted during a global pandemic, and in most states eligible voters may encounter new and different ways of registering to vote, requesting and obtaining their ballots, and returning their ballots or voting in person. 
 
@@ -17,21 +18,19 @@ In recognition of these changes, the Caltech/MIT Voting Technology Project offer
 
 1. **GET REGISTERED**
 
-	Refer to https://vote.gov/ for state-specific details on registration deadlines and on how to register to vote.
+  Refer to https://vote.gov/ for state-specific details on registration deadlines and on how to register to vote.
 
 2. **GET INFORMED**
 
-	Determine what will be on your ballot, and practice voting with a “sample ballot,” as a way to reduce errors. If you go to vote in person, bring your marked sample ballot to the polling place or vote center to guide you when you vote.
+  Determine what will be on your ballot, and practice voting with a “sample ballot,” as a way to reduce errors. If you go to vote in person, bring your marked sample ballot to the polling place or vote center to guide you when you vote.
 
 3. **CHOOSE YOUR VOTE METHOD**
 
-	Voting methods differ across the states, so contact your state or local election officials for details about your options.
-    
-	Likely options are:
+  Voting methods differ across the states, so contact your state or local election officials for details about your options.
+  Likely options are:
 
   * Vote in person early or on Election Day
   * Mail in ballot or absentee voting
-
 
 4. **VOTE BEFORE OR ON ELECTION DAY**
 
@@ -45,7 +44,7 @@ In recognition of these changes, the Caltech/MIT Voting Technology Project offer
   * There may be lines when you drop off your ballot or vote.
   * The results of this election may be delayed on Election Night.
 
-# What is the Caltech/MIT Voting Technology Project?
+## What is the Caltech/MIT Voting Technology Project?
 
 The Caltech/MIT Voting Technology Project (VTP) was formed in the immediate aftermath of the 2000 presidential election to help find scientific and technological solutions to the problems that arose in that election. The VTP includes researchers and scholars from Caltech and MIT, as well as other universities, from a diverse set of disciplines, including computer science, mechanical engineering, operations research, political science, and human factors research. In the two decades since our formation, we have continued to engage in our scientific and technological research, to build collaborations with election officials, policy makers, and the private sector.
 
@@ -92,7 +91,7 @@ Colleagues in the Election Administration and Election Science communities who s
 * Robert Stein, Rice University
 * Robert Y. Shapiro, Columbia University
 
-# Disclaimer
+## Disclaimer
 
 Art by Brittany Long Olsen (https://twitter.com/brytning).
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/).
