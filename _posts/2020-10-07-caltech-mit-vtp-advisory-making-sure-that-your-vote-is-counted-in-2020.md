@@ -18,22 +18,22 @@ In recognition of these changes, the Caltech/MIT Voting Technology Project offer
 
 ### 1: **GET REGISTERED**
 
-  Refer to [https://vote.gov/](https://vote.gov/) for state-specific details on registration deadlines and on how to register to vote.
+Refer to [https://vote.gov/](https://vote.gov/) for state-specific details on registration deadlines and on how to register to vote.
 
 ### 2: **GET INFORMED**
 
-  Determine what will be on your ballot, and practice voting with a “sample ballot,” as a way to reduce errors. If you go to vote in person, bring your marked sample ballot to the polling place or vote center to guide you when you vote.
+Determine what will be on your ballot, and practice voting with a “sample ballot,” as a way to reduce errors. If you go to vote in person, bring your marked sample ballot to the polling place or vote center to guide you when you vote.
 
 ### 3: **CHOOSE YOUR VOTE METHOD**
 
-  Voting methods differ across the states, so contact your state or local election officials for details about your options.
-  Likely options are:
-
+Voting methods differ across the states, so contact your state or local election officials for details about your options.
+Likely options are:
   * Vote in person early or on Election Day
   * Mail in ballot or absentee voting
 
 ### 4: **VOTE BEFORE OR ON ELECTION DAY**
 
+ 
   * If you return your ballot by mail, make sure to follow all instructions on the ballot and envelope and drop it off at a USPS location as soon as possible.
   * If you can return your mail or absentee ballot at an official "dropbox," make sure to follow the instructions on your ballot and envelope.
   * If you vote in person early on Election Day, try to go mid-morning or mid-afternoon, bring your sample ballot, and bring your PPE.
@@ -41,8 +41,11 @@ In recognition of these changes, the Caltech/MIT Voting Technology Project offer
 
 ### 5: **BE PATIENT**
 
+ 
   * There may be lines when you drop off your ballot or vote.
   * The results of this election may be delayed on Election Night.
+
+
 
 ## What is the Caltech/MIT Voting Technology Project?
 
