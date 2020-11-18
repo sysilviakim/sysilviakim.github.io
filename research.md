@@ -8,7 +8,7 @@ published: true
 
 --------------------------------------
 
-**Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. ["Securing Elections: How Data-Driven Election Monitoring Can Improve Democracy."]( https://www.cambridge.org/core/elements/securing-american-elections/44DB59AB97CD8538ABCC6AD0AD00CCF4) Forthcoming, Cambridge University Press.**
+**Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2020. ["Securing Elections: How Data-Driven Election Monitoring Can Improve Democracy."]( https://www.cambridge.org/core/elements/securing-american-elections/44DB59AB97CD8538ABCC6AD0AD00CCF4) Cambridge University Press.**
 
 **Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. 2020. ["Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout."](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12777) Social Science Quarterly 101(2): 978–88.**
 
