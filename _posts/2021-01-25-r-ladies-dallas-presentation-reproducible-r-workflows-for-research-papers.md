@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'R-Ladies Dallas Presentation: Reproducible R Workflows for Research Papers'
 ---
 I gave a talk today at R-Ladies Dallas via Zoom. The [meetup](https://www.meetup.com/rladies-dallas/events/275737054/) was recorded and a video will be soon available. The slides are [here](/figs/rladies_dallas_reproducibility_20210125.pdf).
