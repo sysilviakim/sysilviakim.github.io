@@ -22,13 +22,13 @@ published: true
 
 --------------------------------------
 
-#### [Automatic Voter Registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers](https://www.dropbox.com/s/jrsmtwbyusyy3ia/20210504-avr-preprint-main.pdf?raw=1) <br/> 
+#### [Automatic Voter Registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers](https://doi.org/10.33774/apsa-2021-3wzbh) <br/> 
 
 How much does automatic voter registration (AVR) increase turnout? Unlike many democracies, American voters in many states face additional costs of registration, resulting in potential disenfranchisement. AVR is expected to promote turnout by alleviating registration costs, but its causal effects have rarely been quantified due to violations of crucial assumptions. I show that automatic voter (re)registration increases turnout by 5.8 percentage points by exploiting a discontinuity in a novel dataset of voters who moved. Election officials in Orange County, California, notified existing registrants who moved that their residential addresses were automatically updated. The treatment alleviated registrants of re-registration burdens--but only for those who moved before the legal cutoff date. Contrary to the popular narrative, AVR had no significant effect on the turnout of registered Democratic voters, but Republicans’ and nonpartisans’ turnout increased by 8.1 and 7.4 percentage points.
 
 (Job market paper; previously circulated as Getting Settled in Your New Home: The Costs of Moving on Voter Turnout)
 
-#### Kim, Seo-young Silvia, and Jan Zilinsky. 2021. [The Divided (But Not More Predictable) Electorate: A Machine Learning Analysis of Voting in American Presidential Elections](https://www.dropbox.com/s/9grq74mystam6bi/surveyML-writeup-20210401-singleblind.pdf?raw=1) <br/> 
+#### Kim, Seo-young Silvia, and Jan Zilinsky. 2021. [The Divided (But Not More Predictable) Electorate: A Machine Learning Analysis of Voting in American Presidential Elections](https://doi.org/10.33774/apsa-2021-45w3m-v2) <br/> 
 
 Political parties are increasingly homogeneous both ideologically and demographically. With increased party-line voting, a natural corollary of sorting is that membership in demographic groups should be increasingly prognostic of vote choice. We argue that predictability of voting decisions is a useful quantity of interest for testing hypotheses from the literature on partisan and demographic sorting. Contrary to expectations, we find that demographic sorting has not produced a very predictable electorate. Tree-based machine learning models, trained on demographic labels from public opinion surveys between 1952 and 2020, predict only 63.5% of out-of-sample vote choices correctly on average. Moreover, demographics have not grown more predictive over time, while partisanship has. Partisanship's diagnosticity has risen in absolute terms, and its relative dominance over ideology has been stable for the last seven decades. Additional data about voters can still yield superior predictions, but its added value decreases over time as partisanship's predictive power grows.
 
