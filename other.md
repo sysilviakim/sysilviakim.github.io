@@ -28,9 +28,3 @@ published: true
 - [Preliminary Evaluation of Los Angeles County Vote CenterPerformance in the March 2020 Primary Elections.](https://static1.squarespace.com/static/5ace8a6b45776eba2e40cbee/t/5f0c8761bf07614913f1569d/1594656624688/LA_County_Vote_Center_Preliminary.pdf) July 13, 2020.
 - [Oregon Election Performance Auditing. Pilot Project: Analysis and Recommendations.](https://evic.reed.edu/wp-content/uploads/2020/04/or_electionaudit_2020.pdf) April 13, 2020.
 - [Orange County Vote Center Observation and Wait Time Preliminary Report, 2020 March Primary.](https://drive.google.com/file/d/1_GlQwFuRbTdULzoNdfu9qYm2jzsnpgfg/view) March 23, 2020.
-
-#### Graduate Student Resources
-
-- [(Very Sparse) Guideline for Research Assistants](https://www.dropbox.com/s/qs0bhufxj3vizja/ra-guideline.pdf?raw=1).
-- [American University Professional Development workshop: How Should Students Approach Conferences?](https://www.dropbox.com/s/tg91siqltadeuj8/au-professional-development-workshop-2023.pdf?raw=1) March 24, 2023.
-- [American University Professional Development workshop: Conferences, Networking, and Web Presence](https://www.dropbox.com/s/rv7elsjq5pfysxs/au-professional-development-workshop.pdf?raw=1). March 19, 2021.
