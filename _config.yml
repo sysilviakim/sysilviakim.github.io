@@ -25,9 +25,10 @@ navbar-links:
   About: "index"
   CV: "cv"
   Research: "research"
-  Teaching: "teaching"
+  Teaching: 
+    - Syllabi: "teaching"
     - Learning R: "learningR"
-    - Graduate Student Resources: "student"
+    - Student Resources: "student"
   Other: "other"
 
 ################
