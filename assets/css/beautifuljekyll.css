@@ -7,12 +7,12 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 90%
 }
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -24,7 +24,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 1.875rem 0;
+  margin: 1.25rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -32,10 +32,10 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.35rem;
 }
 h3 {
   font-size: 1.25rem;
@@ -44,7 +44,7 @@ h4 {
   font-size: 1.125rem;
 }
 h1, h2, h3, h4 {
-  margin-top: 1.25rem;
+  margin-top: 1rem;
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }};
