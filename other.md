@@ -7,7 +7,7 @@ published: true
 #### Non Peer-Reviewed Work
 
 - Dominguez, Melanie Sayuri, and Seo-young Silvia Kim. 2022. “[Thriving in Graduate School as an International Student: How to Combat the Hidden Costs and Barriers.](https://preprints.apsanet.org/engage/apsa/article-details/61db6f5ddb4d9f99649264f1)”
-- Kim, Seo-young Silvia. 2020. “[The Academic Job Market: Timeline, APSA, and the Packet.](https://www.dropbox.com/s/xtfxorn1ebaam4n/ps-jobmarket-tex.pdf?raw=1)” (More unpolished but lengthy version available at [tinyurl.com/y3wcrzsg](tinyurl.com/y3wcrzsg))
+- Kim, Seo-young Silvia. 2020. “[The Academic Job Market: Timeline, APSA, and the Packet.](https://www.dropbox.com/s/xtfxorn1ebaam4n/ps-jobmarket-tex.pdf?raw=1)” (More unpolished but lengthy version available at [tinyurl.com/y3wcrzsg](www.tinyurl.com/y3wcrzsg))
 
 #### Media and Presentations
 
