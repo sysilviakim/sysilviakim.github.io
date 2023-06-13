@@ -21,10 +21,10 @@ So what are some fun, memorable paper titles in social sciences? Here's my pick 
 - [Theodoridis, Alexander G. 2017. “Me, Myself, and (I), (D), or (R)? Partisanship and Political Cognition through the Lens of Implicit Identity.” The Journal of Politics 79(4): 1253–67.](https://doi.org/10.1086/692738)
 - [Dil, Shaheen F. 1977. “The Cabal in Kabul: Great-Power Interaction in Afghanistan.” American Political Science Review 71(2): 468–76.](https://doi.org/10.2307/1978342): this was Bill LeoGrande's suggestion.
 - [Mason, Lilliana. 2015. “‘I Disrespectfully Agree’: The Differential Effects of Partisan Sorting on Social and Issue Polarization.” American Journal of Political Science 59(1): 128–45.](https://doi.org/10.1111/ajps.12089): this was John V. Kane's suggestion.
-- [Kane, John V., and Ian G. Anson. 2022. “Deficit Attention Disorder: Partisanship, Issue Importance and Concern About Government Overspending.” Political Behavior. https://doi.org/10.1007/s11109-022-09783-5.](https://doi.org/10.1007/s11109-022-09783-5)
+- [Kane, John V., and Ian G. Anson. 2022. “Deficit Attention Disorder: Partisanship, Issue Importance and Concern About Government Overspending.” Political Behavior.](https://doi.org/10.1007/s11109-022-09783-5)
 - [Anson, Ian G., and John V. Kane. 2022. “Ought It Audit? Information, Values, and Public Support for the Internal Revenue Service.” Journal of Experimental Political Science: 1–12.](https://doi.org/10.1017/XPS.2022.26)
 - [Gray, Julia. 2018. “Life, Death, or Zombie? The Vitality of International Organizations.” International Studies Quarterly 62(1): 1–13.](https://doi.org/10.1093/isq/sqx086): this was Le Bao's suggestion.
-- [Krehbiel, Keith. 1993. “Where’s the Party?” British Journal of Political Science 23(2): 235–66.](https://doi.org/10.1017/S0007123400009741)
+- [Krehbiel, Keith. 1993. “Where’s the Party?” British Journal of Political Science 23(2): 235–66.](https://doi.org/10.1017/S0007123400009741) And in a similar vein, [Whiteley, Paul F. 2011. “Is the Party over? The Decline of Party Activism and Membership across the Democratic World.” Party Politics 17(1): 21–44.](https://doi.org/10.1177/1354068810365505)
 - [Fowler, Anthony et al. 2022. “Moderates.” American Political Science Review: 1–18.](https://doi.org/10.1017/S0003055422000818) A one-word title! This was Josh McCrain's suggestion.
 - [Neumayer, Eric, and Thomas Plümper. 2016. “W.” Political Science Research and Methods 4(1): 175–93.
 ](https://doi.org/10.1017/psrm.2014.40) A real power move. Trouble is, this one-letter title makes it impossible to find via Google Scholar and Zotero. 
@@ -51,3 +51,4 @@ And some more for the jokes:
 #### Misc. 
 
 - [Gilbert, E., T. Bergstrom, and K. Karahalios. 2009. “Blogs Are Echo Chambers: Blogs Are Echo Chambers.” In 2009 42nd Hawaii International Conference on System Sciences, , 1–10.](https://doi.org/10.1109/HICSS.2009.91): this was Aaron Veenstra's suggestion.
+- [Van Dyke, Marley C Caballero, Marcus M Teixeira, and Bridget M Barker. 2019. “Fantastic Yeasts and Where to Find Them: The Hidden Diversity of Dimorphic Fungal Pathogens.” Current Opinion in Microbiology 52: 55–63.](https://www.sciencedirect.com/science/article/pii/S136952741930013X)
