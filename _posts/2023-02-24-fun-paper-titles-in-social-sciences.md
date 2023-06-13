@@ -34,11 +34,11 @@ And my own, if I may:
 
 #### Economics
 
-- [Wollmann, Thomas G. 2020. “How to Get Away with Merger: Stealth Consolidation and Its Effects on US Healthcare.” https://www.nber.org/papers/w27274.](https://www.nber.org/papers/w27274).
+- [Wollmann, Thomas G. 2020. “How to Get Away with Merger: Stealth Consolidation and Its Effects on US Healthcare.” mimeo.](https://www.nber.org/papers/w27274)
 - [Davies, Ronald B., Julien Martin, Mathieu Parenti, and Farid Toubal. 2018. “Knocking on Tax Haven’s Door: Multinational Firms and Transfer Pricing.” The Review of Economics and Statistics 100(1): 120–34.](https://doi.org/10.1162/REST_a_00673)
 - [DellaVigna, Stefano, and Ulrike Malmendier. 2006. “Paying Not to Go to the Gym.” American Economic Review 96(3): 694–719.](https://www.aeaweb.org/articles?id=10.1257/aer.96.3.694)
 - [Dube, Oeindrila, and S. P. Harish. 2020. “Queens.” Journal of Political Economy 128(7): 2579–2652.](https://doi.org/10.1086/707011)
-- [Kremer, Michael, and Charles Morcom. 2000. “Elephants.” American Economic Review 90(1): 212–34.](https://www.aeaweb.org/articles?id=10.1257/aer.90.1.212). This was Ryan Briggs' suggestion. More about one-word titles: [https://twitter.com/JustinSandefur/status/1408526421560025091?s=20](https://twitter.com/JustinSandefur/status/1408526421560025091?s=20)
+- [Kremer, Michael, and Charles Morcom. 2000. “Elephants.” American Economic Review 90(1): 212–34.](https://www.aeaweb.org/articles?id=10.1257/aer.90.1.212) This was Ryan Briggs' suggestion. More about one-word titles: [https://twitter.com/JustinSandefur/status/1408526421560025091?s=20](https://twitter.com/JustinSandefur/status/1408526421560025091?s=20)
 
 And some more for the jokes:
 - [Goodman, Allen C., Joshua Goodman, Lucas Goodman, and Sarena Goodman. 2015. “A Few Goodmen: Surname-Sharing Economist Coauthors.” Economic Inquiry 53(2): 1392–95.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12167)
