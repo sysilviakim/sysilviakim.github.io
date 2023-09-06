@@ -13,9 +13,9 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 #### Peer Reviewed Journal Articles
 
 - Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity,
-and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. Published online Oct 2022.
+and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-1586.
     - [Replication archive](https://github.com/sysilviakim/propSurveyCA)
-- Kim, Seo-young Silvia. 2022. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review. Published online Oct 2022.
+- Kim, Seo-young Silvia. 2022. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
     - [Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILKRK2) 
     - [Presentation slides used at Emory University, Nov 3, 2022](https://www.dropbox.com/s/yxphe91prte4ez0/emory-slides.pdf?raw=1)
     - Article on the [The Conversation](https://theconversation.com/automatic-voter-reregistration-can-substantially-boost-turnout-193492)
