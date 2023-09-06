@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <div class="img">
-  <img width="350" style = "margin: 0;" src="./img/profile-2023-raw.jpg" id = "profile">
+  <img width="300" style = "margin: 0;" src="./img/profile-2023-raw.jpg" id = "profile">
 </div>
 
 Welcome! I am an Assistant Professor in the Department of Government at Sogang University. I received my Ph.D. from the California Institute of Technology in 2020, and was formerly at American University as an assistant professor, 2020--2023. 
