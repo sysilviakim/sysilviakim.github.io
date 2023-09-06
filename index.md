@@ -9,7 +9,7 @@ use-site-title: true
   <img width="350" style = "margin: 0;" src="./img/profile-2023-raw.jpg" id = "profile">
 </div>
 
-Welcome! I am an Assistant Professor in the Department of Government at American University. I received my Ph.D. from the California Institute of Technology in 2020. 
+Welcome! I am an Assistant Professor in the Department of Government at Sogang University. I received my Ph.D. from the California Institute of Technology in 2020, and was formerly at American University as an assistant professor, 2020--2023. 
 
 I work on American politics, political methodology, and computational social sciences, with emphasis on political behavior, election administration, and money in politics. In addition, I build methods to calculate and address measurement biases in administrative data and surveys.
 
