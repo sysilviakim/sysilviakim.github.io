@@ -1,8 +1,17 @@
 ---
 layout: page
-title: Learning R: Some Recommended Resources
+title: "Learning R: Some Recommended Resources"
 published: true
 ---
+
+**Data Workflow Using R: Sogang University Workshop, 2023 Fall**
+
+(In Korean) A series of slides on a principled crash-course to learning R.
+1. [데이터 워크플로우의 정의 및 R 기초 문법](https://www.dropbox.com/scl/fi/atyhfrmv9dn54lyzqp36a?rlkey=gb5xh8jc67a821js8vfj9cxer&raw=1)
+2. Tidyverse로 데이터 불러오고 변환하기
+3. R 함수 및 함수형 프로그래밍
+
+-----------------------------------------------------------
 
 **I. Beginner-friendly Learning Materials**
 
