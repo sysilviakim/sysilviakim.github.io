@@ -12,13 +12,13 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 
 #### Peer Reviewed Journal Articles
 
-- Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity,
-and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-1586.
-    - [Replication archive](https://github.com/sysilviakim/propSurveyCA)
-- Kim, Seo-young Silvia. 2022. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
+- Kim, Seo-young Silvia. 2023. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
     - [Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILKRK2) 
     - [Presentation slides used at Emory University, Nov 3, 2022](https://www.dropbox.com/s/yxphe91prte4ez0/emory-slides.pdf?raw=1)
     - Article on the [The Conversation](https://theconversation.com/automatic-voter-reregistration-can-substantially-boost-turnout-193492)
+- Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity,
+and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-86.
+    - [Replication archive](https://github.com/sysilviakim/propSurveyCA)
 - Kim, Seo-young Silvia, and Jan Zilinsky. 2022. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://link.springer.com/article/10.1007/s11109-022-09816-z) Political Behavior. Published online Aug 2022.
     - [Replication archive](https://github.com/sysilviakim/surveyML)
 - Cao, Jian, Seo-young Silvia Kim, and R. Michael Alvarez. 2022. ["Bayesian Analysis of State Voter Registration Database Integrity."](https://doi.org/10.1515/spp-2021-0016) Statistics, Politics and Policy 13(1): 19–40.
@@ -55,3 +55,9 @@ Political candidates utilize social media to mobilize supporters, persuade voter
 
 Voter files are an essential tool for both election research and campaigns, but relatively little work has established best practices for using these data. We focus on how the timing of voter file snapshots affects the most commonly cited advantage of voter file data: accurate measures of who votes. Outlining the panel structure inherent in voter file data, we demonstrate that opposing patterns of accretion and attrition in the voter registration list result in temporally-dependent bias in estimates of voter turnout for a given election. This bias impacts samples for surveys, experiments, or campaign activities by skewing estimates of the potential and actual voter populations; low-propensity voters are particularly impacted. We provide an approach that allows researchers to measure the impact of this bias on their inferences. We then outline methods that measurably reduce this bias, including combining multiple snapshots to preserve the turnout histories of dropped voters.
 
+--------------------------------------
+
+#### Book Reviews
+
+- Kim, Seo-young Silvia. 2023. [“Money in Politics: Self-Enrichment, Campaign Spending, and Golden Parachutes by Simon Weschlev.”](https://doi.org/10.1093/psquar/qqad047) Political Science Quarterly 138(3): 461–63.
+- 김서영. (2023). [미국의 연방주의와 민주주의의 퇴보](/img/Kim_2023_의정연구.pdf). 의정연구, 29(1), 207-212.
