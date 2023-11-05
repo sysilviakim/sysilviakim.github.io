@@ -7,9 +7,9 @@ published: true
 **Data Workflow Using R: Sogang University Workshop, 2023 Fall**
 
 (In Korean) A series of slides on a principled crash-course to learning R.
-1. [데이터 워크플로우의 정의 및 R 기초 문법](https://www.dropbox.com/scl/fi/atyhfrmv9dn54lyzqp36a?rlkey=gb5xh8jc67a821js8vfj9cxer&raw=1)
-2. Tidyverse로 데이터 불러오고 변환하기
-3. R 함수 및 함수형 프로그래밍
+1. [데이터 워크플로우의 정의 및 R 기초 문법](https://www.dropbox.com/scl/fi/9oinsx811b4f9ps5ucgkw?rlkey=gb5xh8jc67a821js8vfj9cxer&raw=1)
+2. [Tidyverse로 데이터 불러오고 변환하기](https://www.dropbox.com/scl/fi/546zsldxpj04r0ih9qfmk/?rlkey=aicpfvg7ge7753gkh4z7skcka&raw=1)
+3. [R 함수 및 함수형 프로그래밍](https://www.dropbox.com/scl/fi/33qbxuf392iphag8le69o/?rlkey=a2nwii40fofwjkzsvy1id8bo0&raw=1)
 
 -----------------------------------------------------------
 
