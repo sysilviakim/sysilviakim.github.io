@@ -164,24 +164,16 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-125881958-1"
+gtag: "G-PSFHVWVBWE"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "UA-125881958-1"
+## google_analytics: "UA-125881958-1" ---> old
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+# cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+# gtm: ""
 
 ####################
 # --- Comments --- #
@@ -189,9 +181,6 @@ google_analytics: "UA-125881958-1"
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 #disqus: ""
-
-# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
 #commentbox: "" # Project ID, e.g. "5694267682979840-proj"
