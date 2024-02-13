@@ -14,8 +14,7 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 
 - Kim, Seo-young Silvia, Jan Zilinsky, and Brian Brew. 2024. “Donate To Help Us Fight Back:
 Mobilization Rhetoric in Political Fundraising.” Party Politics. Accepted for publication.
-- Kim, Seo-young Silvia, and Jan Zilinsky. 2024. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://link.springer.com/article/10.1007/s11109-022-09816-z) Political Behavior. 46(1):67-
-87.
+- Kim, Seo-young Silvia, and Jan Zilinsky. 2024. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://link.springer.com/article/10.1007/s11109-022-09816-z) Political Behavior. 46(1):67-87.
     - [Replication archive](https://github.com/sysilviakim/surveyML)
 - Kim, Seo-young Silvia. 2023. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
     - [Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILKRK2) 
