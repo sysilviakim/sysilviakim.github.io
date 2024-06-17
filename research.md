@@ -19,10 +19,9 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
     - [Replication archive](https://github.com/sysilviakim/surveyML)
 - Kim, Seo-young Silvia. 2023. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
     - [Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILKRK2) 
-    - [Presentation slides used at Emory University, Nov 3, 2022](https://www.dropbox.com/s/yxphe91prte4ez0/emory-slides.pdf?raw=1)
+    - [Presentation slides used at Emory University, Nov 3, 2022](https://www.dropbox.com/scl/fi/vp6ow58dg6gx7izct0b53/emory-slides.pdf?rlkey=p1mwkz56pc3ck2cvprzu79i7u&raw=1)
     - Article on the [The Conversation](https://theconversation.com/automatic-voter-reregistration-can-substantially-boost-turnout-193492)
-- Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity,
-and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-86.
+- Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity, and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-86.
     - [Replication archive](https://github.com/sysilviakim/propSurveyCA)
 - Cao, Jian, Seo-young Silvia Kim, and R. Michael Alvarez. 2022. ["Bayesian Analysis of State Voter Registration Database Integrity."](https://doi.org/10.1515/spp-2021-0016) Statistics, Politics and Policy 13(1): 19–40.
     - [Replication archive](https://github.com/sysilviakim/CA-Anomaly-2020)
