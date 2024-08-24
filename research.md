@@ -12,7 +12,7 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 
 #### Peer Reviewed Journal Articles
 
-- Kim, Seo-young Silvia Kim, Akhil Bandreddi, and R. Michael Alvarez. 2024. ["Why Vote in Person in a Pandemic? Using Machine Learning to Predict Voting Methods."](https://doi.org/10.1111/ssqu.13380) Social Science Quarterly.
+- Kim, Seo-young Silvia, Akhil Bandreddi, and R. Michael Alvarez. 2024. ["Partisanship Is Why People Vote in Person in a Pandemic."](https://doi.org/10.1111/ssqu.13380) Social Science Quarterly 105(4): 1042–60.
     - [Replication archive](https://github.com/sysilviakim/coloradoVotes)
 - Kim, Seo-young Silvia, Jan Zilinsky, and Brian Brew. 2024. ["Donate To Help Us Fight Back: Mobilization Rhetoric in Political Fundraising."](https://journals.sagepub.com/doi/10.1177/13540688241235901) Party Politics.
 - Kim, Seo-young Silvia, and Jan Zilinsky. 2024. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://link.springer.com/article/10.1007/s11109-022-09816-z) Political Behavior. 46(1):67-87.
