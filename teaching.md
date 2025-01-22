@@ -4,6 +4,9 @@ title: Syllabi
 published: true
 ---
 
+### Seoul National University
+- [Master's] Dissertation Research: Fall 2024
+
 ### Sogang University
 
 - [Master's/PhD + advanced undergraduates] Empirical Methods I (in Korean; POL 5301/G301): Spring 2024 [Syllabus](https://www.dropbox.com/scl/fi/6i11uhhobses2lztcqdw2/kim-syllabus-polg301-sogang.pdf?rlkey=c1dudzvof2yyautz4skc36hxt&st=nvz7oncy&raw=1).
