@@ -22,8 +22,10 @@ published: true
 - [Reproducible R Workflows for Research Papers.](https://www.youtube.com/watch?reload=9&v=j4oIJCdTO8Q) R-Ladies Dallas, January 25, 2021.
 - [Bayesian Analysis with rstan, rstanarm, and brms.](https://github.com/laRusers/presentations/raw/master/2019-07-08_stan/larusers-kim.pdf) LA East R Users meetup, July 8, 2019. 
 
-#### Professional Service and Contributions
+#### Professional Service, Contributions, and Interviews
 
+- Interview: [South Korea’s Yoon vows to ‘fight to the end’ as leadership hangs in limbo]((https://www.aljazeera.com/news/2024/12/12/south-koreas-yoon-vows-to-fight-to-the-end-as-leadership-hangs-in-limbo). December 12, 2024.
+- Interview: [바이든 울린 '먹고사니즘'…버지니아 대전(大戰) 승리한 트럼프는 다시 백악관 입성할까 / [김수형의 워싱턴 인사이트] / 비디오머그](https://www.youtube.com/watch?v=Vl5phgyYDoc&t=278s). November 15, 2021.
 - [Caltech/MIT VTP Advisory: Making Sure That Your Vote Is Counted In 2020](https://github.com/sysilviakim/voterTips2020). October 5, 2020.
 - [Preliminary Evaluation of Los Angeles County Vote CenterPerformance in the March 2020 Primary Elections.](https://static1.squarespace.com/static/5ace8a6b45776eba2e40cbee/t/5f0c8761bf07614913f1569d/1594656624688/LA_County_Vote_Center_Preliminary.pdf) July 13, 2020.
 - [Oregon Election Performance Auditing. Pilot Project: Analysis and Recommendations.](https://evic.reed.edu/wp-content/uploads/2020/04/or_electionaudit_2020.pdf) April 13, 2020.
