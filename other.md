@@ -24,6 +24,7 @@ published: true
 
 #### Professional Service, Contributions, and Interviews
 
+- Interview: [Threats, prayers and protests: the supporters backing South Korea’s impeached president](https://www.theguardian.com/world/2025/jan/28/yoon-suk-yeol-impeachment-charges-insurrection-supporters?CMP=share_btn_url). January 28, 2025.
 - Interview: [South Korea’s Yoon vows to ‘fight to the end’ as leadership hangs in limbo]((https://www.aljazeera.com/news/2024/12/12/south-koreas-yoon-vows-to-fight-to-the-end-as-leadership-hangs-in-limbo). December 12, 2024.
 - Interview: [바이든 울린 '먹고사니즘'…버지니아 대전(大戰) 승리한 트럼프는 다시 백악관 입성할까 / [김수형의 워싱턴 인사이트] / 비디오머그](https://www.youtube.com/watch?v=Vl5phgyYDoc&t=278s). November 15, 2021.
 - [Caltech/MIT VTP Advisory: Making Sure That Your Vote Is Counted In 2020](https://github.com/sysilviakim/voterTips2020). October 5, 2020.
