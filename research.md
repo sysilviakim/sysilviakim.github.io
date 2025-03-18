@@ -10,34 +10,32 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 
 --------------------------------------
 
-#### Peer Reviewed Journal Articles
+#### Selected Peer Reviewed Journal Articles
+
+For a full list of publications, please see my [CV](https://sysilviakim.com/cv/).
 
 - Atsusaka, Yuki, and Seo-young Silvia Kim. 2025. ["Addressing Measurement Errors in Ranking Questions for the Social Sciences."](https://doi.org/10.1017/pan.2024.33) Political Analysis.
+    - [Replication archive](https://doi.org/10.7910/DVN/UCTXEF)
+    - [rankingQ package](https://github.com/sysilviakim/rankingQ)
 - Kim, Seo-young Silvia, and Zhao Li. 2025. ["Keep Winning with WinRed? Digital Fundraising Platform as the Party’s Public Good."](https://doi.org/10.1086/735435) Journal of Politics.
-- Kim, Seo-young Silvia, Akhil Bandreddi, and R. Michael Alvarez. 2024. ["Partisanship Is Why People Vote in Person in a Pandemic."](https://doi.org/10.1111/ssqu.13380) Social Science Quarterly 105(4): 1042–60.
-    - [Replication archive](https://github.com/sysilviakim/coloradoVotes)
+    - [Replication archive](https://doi.org/10.7910/DVN/742910) 
 - Kim, Seo-young Silvia, Jan Zilinsky, and Brian Brew. 2024. ["Donate To Help Us Fight Back: Mobilization Rhetoric in Political Fundraising."](https://journals.sagepub.com/doi/10.1177/13540688241235901) Party Politics.
 - Kim, Seo-young Silvia, and Jan Zilinsky. 2024. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://link.springer.com/article/10.1007/s11109-022-09816-z) Political Behavior. 46(1):67-87.
     - [Replication archive](https://github.com/sysilviakim/surveyML)
 - Kim, Seo-young Silvia. 2023. ["Automatic Voter Re-registration as a Housewarming Gift: Quantifying Causal Effects on Turnout Using Movers."](https://doi.org/10.1017/S0003055422000983) American Political Science Review 117(3): 1137–44.
-    - [Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ILKRK2) 
+    - [Replication archive](https://doi.org/10.7910/DVN/ILKRK2) 
     - [Presentation slides used at Emory University, Nov 3, 2022](https://www.dropbox.com/scl/fi/vp6ow58dg6gx7izct0b53/emory-slides.pdf?rlkey=p1mwkz56pc3ck2cvprzu79i7u&raw=1)
     - Article on the [The Conversation](https://theconversation.com/automatic-voter-reregistration-can-substantially-boost-turnout-193492)
-- Lopez, Jennifer, R. Michael Alvarez, and Seo-young Silvia Kim. 2022. ["Latinos, Group Identity, and Equal Opportunity on the 2020 California Ballot."](https://doi.org/10.1111/ssqu.13217) Social Science Quarterly. 103(7): 1572-86.
-    - [Replication archive](https://github.com/sysilviakim/propSurveyCA)
-- Cao, Jian, Seo-young Silvia Kim, and R. Michael Alvarez. 2022. ["Bayesian Analysis of State Voter Registration Database Integrity."](https://doi.org/10.1515/spp-2021-0016) Statistics, Politics and Policy 13(1): 19–40.
-    - [Replication archive](https://github.com/sysilviakim/CA-Anomaly-2020)
-- Kim, Seo-young Silvia, Hannah Lebovits, and Sarah Shugars. 2022.  ["Networking 101 for Graduate Students: Building a Bigger Table."](https://doi.org/10.1017/S1049096521001025) PS: Political Science & Politics 55(2): 307–12.
-- Kim, Seo-young Silvia, R. Michael Alvarez, and Christina M. Ramirez. 2020. ["Who Voted in 2016? Using Fuzzy Forests to Understand Voter Turnout."](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12777) Social Science Quarterly 101(2): 978–88.
-    - [Replication archive](https://github.com/sysilviakim/turnout2016)
 - Alvarez, R. Michael, Jonathan N. Katz, and Seo-young Silvia Kim. 2020. ["Hidden Donors: The Censoring Problem in U.S. Federal Campaign Finance Data."](https://www.liebertpub.com/doi/full/10.1089/elj.2019.0593) Election Law Journal: Rules, Politics, and Policy 19(1): 1–18.
-    - [Replication code](https://github.com/sysilviakim/turnout2016)
-- Kim, Seo-young Silvia, Spencer Schneider, and R. Michael Alvarez. 2020. ["Evaluating the Quality of Changes in Voter Registration Databases."](https://doi.org/10.1177/1532673X19870512) American Politics Research 48(6): 670–676.
-    - [Replication code](https://github.com/sysilviakim/voterdiffR)
+    - [Replication archive](https://github.com/sysilviakim/turnout2016)
 
 --------------------------------------
 
 #### Selected Working Papers
+
+**[Fundraising on the Fringe: Do Ideologically Extreme Candidates Solicit Small Donations?](https://www.dropbox.com/scl/fi/pd4s3h2k8d6rz24rpspeo/extreme-main.pdf?rlkey=qfdxrana4y3eefmpyr06mqwr8&st=z5hm2b4e&raw=1) <br/>**
+
+Do ideologically extreme candidates actively pursue small donations? There is a debate in the money in politics literature about whether "small" individual campaign donors are more ideologically extreme than large donors. This paper reverses the question and investigates whether extreme candidates ask for smaller contributions. Using data from U.S. congressional candidates' fundraising platforms in the 2020 elections, I leverage that campaigns typically present a set of suggested amounts to efficiently solicit money from potential donors. While party, in-state income level, and usage of major fundraising platforms mattered, ideological extremism had no bearing on the amounts candidates asked of their donors. Since solicitation amounts have been long and easily optimized through A/B testing, I interpret this as extreme candidates not finding it profitable to ask for smaller amounts, which is more in alignment with the argument that small donors are not more likely to be ideologically extreme than large ones.
 
 **[Support and Preference for Grassroots Fundraising](https://www.dropbox.com/s/jgoprrn5ucheqe6/?raw=1) (with Yimeng Li.) <br/>**
 
