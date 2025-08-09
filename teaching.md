@@ -5,7 +5,7 @@ published: true
 ---
 
 ### Seoul National University
-- [Master's/PhD] Research Methods for Political Science and International Relations (PSIR 216.502): Fall 2025 [Syllabus](https://www.dropbox.com/scl/fi/2poo5tmod4xmtlduidb6e/syllabus-kim-psir-216-502.pdf?rlkey=6tdlb2bt54ezmftqq0464zcnd&st=b2q6veux&raw=1).
+- [Master's/PhD] Research Methods for Political Science and International Relations 2 (PSIR 216.502): Fall 2025 [Syllabus](https://www.dropbox.com/scl/fi/2poo5tmod4xmtlduidb6e/syllabus-kim-psir-216-502.pdf?rlkey=6tdlb2bt54ezmftqq0464zcnd&st=b2q6veux&raw=1).
 - [Master's] Dissertation Research: Fall 2024.
 
 ### Sogang University
