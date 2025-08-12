@@ -14,7 +14,7 @@ Alvarez, R. Michael, Nicholas J. Adams-Cohen, Seo-young Silvia Kim, Yimeng Li. 2
 
 For a full list of publications, please see my [CV](https://sysilviakim.com/cv/).
 
-- Kim, Seo-young Silvia. 2025. ["Fundraising on the Fringe: Do Ideologically Extreme Candidates Solicit Small Donations?"](https://osf.io/preprints/socarxiv/s537q_v1) Research & Politics. Forthcoming.
+- Kim, Seo-young Silvia. 2025. ["Fundraising on the Fringe: Do Ideologically Extreme Candidates Solicit Small Donations?"](https://doi.org/10.1177/20531680251362036) Research & Politics.
 - Atsusaka, Yuki, and Seo-young Silvia Kim. 2025. ["Addressing Measurement Errors in Ranking Questions for the Social Sciences."](https://doi.org/10.1017/pan.2024.33) Political Analysis.
     - [Replication archive](https://doi.org/10.7910/DVN/UCTXEF)
     - [rankingQ package](https://github.com/sysilviakim/rankingQ)
