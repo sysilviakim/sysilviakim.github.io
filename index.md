@@ -6,10 +6,10 @@ use-site-title: true
 ---
 
 <div class="img">
-  <img width="300" style = "margin: 0;" src="./img/profile-2023-raw.jpg" id = "profile">
+  <img width="300" style="margin: 0;" src="/img/profile-2023-raw.jpg" id="profile">
 </div>
 
-Welcome! I am an Assistant Professor in the [Department of Political Science and International Relations](https://psir.shoplic.site/wp/en/home-eng/) at Seoul National University. I received my Ph.D. from the California Institute of Technology in 2020, and was formerly at American University as an assistant professor, 2020--2023, and at Sogang University, 2023--2024. 
+Welcome! I am an Assistant Professor in the [Department of Political Science and International Relations](https://psir.snu.ac.kr/) at Seoul National University. I received my Ph.D. from the California Institute of Technology in 2020, and was formerly at American University as an assistant professor, 2020--2023, and at Sogang University, 2023--2024. 
 
 I work on American politics, political methodology, and computational social sciences, with an emphasis on political behavior, election administration, and money in politics. I also build methods to calculate and address measurement biases in administrative data and surveys.
 
