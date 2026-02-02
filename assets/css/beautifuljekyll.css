@@ -9,6 +9,11 @@ layout: null
 html {
   font-size: 100%
 }
+@media (min-width: 992px) {
+  html {
+    font-size: 87.5%; /* ~14px on desktop */
+  }
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
