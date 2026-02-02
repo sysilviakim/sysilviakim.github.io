@@ -16,7 +16,7 @@ published: true
 **I. Beginner-friendly Learning Materials**
 
 * How to install R, RStudio, and R packages: [a learnr tutorial](https://learnr-examples.shinyapps.io/ex-setup-r/#section-install-r).
-* Wickham, Hadley, and Garrett Grolemund. [**R for Data Science**. O'Reilly Media, Inc., 2016](https://r4ds.had.co.nz/).
+* Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. [**R for Data Science**. 2nd ed. O'Reilly Media, Inc., 2023](https://r4ds.hadley.nz/).
 * [fasteR: Fast Lane to Learning R!](https://github.com/matloff/fasteR#overview) by Norm Matloff.
 * You can use [swirl](https://swirlstats.com/) to learn base R interactively. There are various courses that can be installed by swirl, including my [swirl-tidy](https://github.com/sysilviakim/swirl-tidy) lesson that helps you learn tidyverse. For a quick installation guide, see [here](https://gist.github.com/sysilviakim/03f266e4c542f0aade858df4dd629b82).
 
