@@ -240,6 +240,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.bluesky -%}
+  <li class="list-inline-item">
+    <a href="https://bsky.app/profile/{{ site.social-network-links.bluesky }}" title="Bluesky">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-cloud fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Bluesky</span>
+    </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.ORCID -%}
  <li class="list-inline-item">
    <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
