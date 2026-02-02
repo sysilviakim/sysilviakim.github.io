@@ -43,6 +43,7 @@ Note that AI-generated answers may not always be accurate, especially for statis
 
 **III. Advanced Steps**
 
+* This is a good resource for those now familiar with R4Ds: Wickham, Hadley. [**Advanced R**. 2nd ed. Chapman and Hall/CRC, 2019](https://adv-r.hadley.nz/).
 * **Comment generously!** You will *not* be able to remember what you were doing without ample commenting, nor will other people be able to understand your code.
 * Never save/restore .RData. In fact, uncheck "Restore most recently opened project at startup," "Restore previously open source documents at startup," "Restore .RData into workspace at startup", and "Always save history." Finally, set "save workspace to .RData on exit" to "Never."
 * Form each data analysis into a **project**, use `here::here()` as opposed to `setwd`, and be mindful of the [project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) and reproducibility.
