@@ -3,7 +3,7 @@ layout: post
 published: true
 title: '2020 Iowa Caucuses, in pictures'
 ---
-Thanks to the [2020 Iowa Caucus Conference](https://clas.uiowa.edu/polisci/Shambaugh-2020Caucus) hosted by [Caroline Tolbert at the University of Iowa](https://clas.uiowa.edu/polisci/people/caroline-j-tolbert), I have been able to see the rallies, the field office operations, and ultimately the 2020 Iowa caucuses myself. Here are some of the pictures that captured the storm.
+Thanks to the 2020 Iowa Caucus Conference hosted by Caroline Tolbert at the University of Iowa, I have been able to see the rallies, the field office operations, and ultimately the 2020 Iowa caucuses myself. Here are some of the pictures that captured the storm.
 
 ![DSC04198.JPG]({{site.baseurl}}/img/iowa/DSC04198.JPG)
 

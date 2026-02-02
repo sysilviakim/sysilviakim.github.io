@@ -18,7 +18,7 @@ published: true
   - [C-SPAN video.](https://www.c-span.org/video/?525551-1/white-house-lawyer-democracy)
 - [Bringing Transparency to Digital Political Campaigns: A Symposium at Princeton University.](https://csdp.princeton.edu/events/bringing-transparency-digital-political-campaigns-symposium-princeton-university) December 2, 2022.
 - [Automatic voter reregistration can substantially boost turnout.](https://theconversation.com/automatic-voter-reregistration-can-substantially-boost-turnout-193492) The Conversation. November 4, 2022.
-- [Princeton CSDP presentation](https://csdp.princeton.edu/events/silvia-kim-american-university-keep-winning-winred-online-fundraising-platform-partys-public), March 3, 2022.
+- Princeton CSDP presentation, March 3, 2022.
 - [Reproducible R Workflows for Research Papers.](https://www.youtube.com/watch?reload=9&v=j4oIJCdTO8Q) R-Ladies Dallas, January 25, 2021.
 - [Bayesian Analysis with rstan, rstanarm, and brms.](https://github.com/laRusers/presentations/raw/master/2019-07-08_stan/larusers-kim.pdf) LA East R Users meetup, July 8, 2019. 
 

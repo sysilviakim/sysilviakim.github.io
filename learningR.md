@@ -45,9 +45,7 @@ Note AI-generated answers may not be always accurate, especially for complex que
 
 **III. Advanced Steps**
 
-* **Comment generously!** You will *not* be able to remember what you were doing without ample commenting, nor will other people be able to understand your code. Otherwise, this will be [you reading your old code](https://twitter.com/KhoaVuUmn/status/1381461483855302656?s=20):
-
-    <img src="https://user-images.githubusercontent.com/20317183/218233173-44d5457e-ad57-44db-a7cc-4b5508df8312.png" width="400">
+* **Comment generously!** You will *not* be able to remember what you were doing without ample commenting, nor will other people be able to understand your code.
 * Never save/restore .RData. In fact, run **`usethis::use_blank_slate()`**. 
 * Form each data analysis into a **project**, use `here::here()` as opposed to `setwd`, and be mindful of the [project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) and reproducibility.
 * **Please** use the [`styler`](https://github.com/r-lib/styler) package, which makes it very easy to style your code consistently. 
