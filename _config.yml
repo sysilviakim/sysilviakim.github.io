@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-url: "http://sysilviakim.github.io"
+url: "https://sysilviakim.com"
 baseurl: ""
 title: Seo-young Silvia Kim
 
@@ -240,7 +240,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
