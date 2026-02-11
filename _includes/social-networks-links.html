@@ -276,6 +276,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.buymeacoffee -%}
+  <li class="list-inline-item">
+    <a href="https://buymeacoffee.com/{{ site.social-network-links.buymeacoffee }}" title="Buy Me a Coffee">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-coffee fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Buy Me a Coffee</span>
+    </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.patreon -%}
   <li class="list-inline-item">
     <a href="https://patreon.com/{{ site.social-network-links.patreon }}" title="Patreon">
