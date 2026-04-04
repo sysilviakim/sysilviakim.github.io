@@ -5,8 +5,11 @@ published: true
 ---
 
 ### KOSSDA Lectures
-- [Computational Social Science]
-  - [Week 1 slides](/docs/kossda-2026-week1.pdf)
+- Computational Social Science: [syllabus](https://kossda.methods.snu.ac.kr/course/course_view.jsp?id=197197&cid=#course-view-197197)
+  - [Week 1 slides](https://www.dropbox.com/scl/fi/zhbi1ng0n032rkcf8i08s/week1.pdf?rlkey=1eaxs77djaemjstgcvjeyn9ef&st=uwqyjimt&raw=1)
+  - [Week 2 slides]
+  - [Week 3 slides]
+  - [Week 4 slides]
 
 ### Seoul National University
 - [Master's/PhD] Research Methods for Political Science and International Relations 2 (PSIR 216.502): Fall 2025 [Syllabus](https://www.dropbox.com/scl/fi/2poo5tmod4xmtlduidb6e/syllabus-kim-psir-216-502.pdf?rlkey=6tdlb2bt54ezmftqq0464zcnd&st=b2q6veux&raw=1).
