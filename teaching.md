@@ -6,9 +6,9 @@ published: true
 
 ### KOSSDA Lectures
 - Computational Social Science: [syllabus](https://kossda.methods.snu.ac.kr/course/course_view.jsp?id=197197&cid=#course-view-197197)
-  - [Week 1 slides](https://www.dropbox.com/scl/fi/zhbi1ng0n032rkcf8i08s/week1.pdf?rlkey=1eaxs77djaemjstgcvjeyn9ef&st=uwqyjimt&raw=1)
+  - [Week 1 slides](https://www.dropbox.com/scl/fi/zhbi1ng0n032rkcf8i08s/week1.pdf?rlkey=1eaxs77djaemjstgcvjeyn9ef&raw=1)
   - [Week 2 slides](https://www.dropbox.com/scl/fi/t50egf0286ey7ld6jbp1s/week2.pdf?rlkey=amsomo2lwpvnb1kqczm7l22nb&raw=1)
-  - [Week 3 slides]
+  - [Week 3 slides](https://www.dropbox.com/scl/fi/vttf7wnfkv8uvt8kuuc4t/week3.pdf?rlkey=dqopswhdwy7dpc1slr0gs5poy&raw=1)
   - [Week 4 slides]
 
 ### Seoul National University
