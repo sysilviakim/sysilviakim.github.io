@@ -4,6 +4,10 @@ title: Student Resources
 published: true
 ---
 
+#### Thoughts on AI and Social Science
+
+[Presentation slides](https://www.dropbox.com/scl/fi/s5vrx7ufoinuhz6syyjs4/ai-social-science-2026.pdf?rlkey=jvzcdz6cghseyd96rosam64mb&st=l2zlej34&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
+
 #### Assignment Guidelines, Templates, and Research/Writing Best Practices
 
 * Here is a link to an [Overleaf template](https://www.overleaf.com/read/mbzvbbjswfbw) for final projects and papers. This LaTeX example contains how to include figures, tables, and references and is preset with class format requirements. 
