@@ -6,7 +6,7 @@ published: true
 
 #### Thoughts on AI and Social Science
 
-[Presentation slides](https://www.dropbox.com/scl/fi/s5vrx7ufoinuhz6syyjs4/ai-social-science-2026.pdf?rlkey=jvzcdz6cghseyd96rosam64mb&st=l2zlej34&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
+[Presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
 
 #### Assignment Guidelines, Templates, and Research/Writing Best Practices
 
