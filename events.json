@@ -1,0 +1,40 @@
+---
+layout: null
+permalink: /events.json
+---
+{% if site.data.events %}
+[
+{% assign events = site.data.events | where: "status", "published" | sort: "date" %}
+{% for event in events %}
+{% assign event_start_date = event.date | date: "%Y-%m-%d" %}
+{% assign event_end = "" %}
+{% if event.time %}
+{% assign event_times = event.time | split: "-" %}
+{% assign event_start_time = event_times | first | strip %}
+{% assign event_start = event_start_date | append: "T" | append: event_start_time %}
+{% if event.time contains "-" %}
+{% assign event_end_time = event_times | last | strip %}
+{% assign event_end = event_start_date | append: "T" | append: event_end_time %}
+{% endif %}
+{% else %}
+{% assign event_start = event_start_date %}
+{% endif %}
+{% if event.end_date %}
+{% assign event_end = event.end_date | date: "%Y-%m-%d" %}
+{% endif %}
+  {
+    "title": {{ event.title | jsonify }},
+    "start": {{ event_start | jsonify }}{% if event_end != "" %},
+    "end": {{ event_end | jsonify }}{% endif %}{% if event.location or event.description or event.organizer %},
+    "extendedProps": {
+      "location": {{ event.location | jsonify }},
+      "organizer": {{ event.organizer | jsonify }},
+      "description": {{ event.description | jsonify }}
+    }{% endif %}{% if event.link %},
+    "url": {{ event.link | jsonify }}{% endif %}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+{% else %}
+[]
+{% endif %}
