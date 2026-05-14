@@ -3,6 +3,8 @@ name: Build and deploy Jekyll site
 on:
   push:
     branches: [master]
+  repository_dispatch:
+    types: [events-updated]
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
