@@ -128,8 +128,7 @@ full-width: true
 
 <div class="events-page">
   <div class="events-intro">
-    <p>Workshops, study sessions, talks, and other student-facing events.</p>
-    <p class="events-actions">Import this calendar once, or subscribe by URL to receive updates when the event list changes.</p>
+    <p>Workshops, study sessions, talks, and other student-facing events. Import this calendar once, or subscribe by URL to receive updates when the event list changes.</p>
     <p class="events-actions"><a href="{{ '/events.ics' | relative_url }}">Subscribe / download calendar (.ics)</a></p>
   </div>
 
