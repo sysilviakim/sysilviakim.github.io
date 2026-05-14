@@ -11,10 +11,10 @@ permalink: /events.json
 {% if event.time %}
 {% assign event_times = event.time | split: "-" %}
 {% assign event_start_time = event_times | first | strip %}
-{% assign event_start = event_start_date | append: "T" | append: event_start_time %}
+{% assign event_start = event_start_date | append: "T" | append: event_start_time | append: ":00+09:00" %}
 {% if event.time contains "-" %}
 {% assign event_end_time = event_times | last | strip %}
-{% assign event_end = event_start_date | append: "T" | append: event_end_time %}
+{% assign event_end = event_start_date | append: "T" | append: event_end_time | append: ":00+09:00" %}
 {% endif %}
 {% else %}
 {% assign event_start = event_start_date %}

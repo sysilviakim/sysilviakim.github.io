@@ -24,7 +24,13 @@ full-width: true
 
 #events-calendar {
   margin: 0 auto 2.5rem;
+  max-width: 900px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.events-actions {
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
+  margin: 0.75rem 0 0;
 }
 
 .fc .fc-button-primary {
@@ -124,6 +130,7 @@ full-width: true
 <div class="events-page">
   <div class="events-intro">
     <p>Workshops, study sessions, talks, and other student-facing events.</p>
+    <p class="events-actions"><a href="{{ '/events.ics' | relative_url }}">Subscribe / download calendar (.ics)</a></p>
   </div>
 
   <div id="events-calendar"></div>
@@ -146,7 +153,7 @@ full-width: true
             <h3>{{ event.title }}</h3>
             <span class="event-toggle" aria-hidden="true">+</span>
           </div>
-          <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }}{% endif %}</p>
+          <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }} KST{% endif %}</p>
         </summary>
         <div class="event-details-body">
 {% if event.location %}
@@ -181,7 +188,7 @@ full-width: true
 {% assign past_count = past_count | plus: 1 %}
       <article class="event-card">
         <h3>{{ event.title }}</h3>
-        <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }}{% endif %}</p>
+        <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }} KST{% endif %}</p>
 {% if event.location %}
         <p class="event-meta">{{ event.location }}</p>
 {% endif %}
@@ -219,6 +226,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var calendar = new FullCalendar.Calendar(calendarElement, {
     initialView: "dayGridMonth",
     height: "auto",
+    timeZone: "Asia/Seoul",
     events: "{{ '/events.json' | relative_url }}",
     eventClick: function (info) {
       if (info.event.url) {

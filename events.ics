@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /events.ics
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sysilviakim.com//Student Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SNU Student Events
+X-WR-CALDESC:Student-facing events listed on sysilviakim.com
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:KST
+END:STANDARD
+END:VTIMEZONE
+{% if site.data.events %}{% assign events = site.data.events | where: "status", "published" | sort: "date" %}{% for event in events %}{% assign event_date = event.date | date: "%Y%m%d" %}{% assign event_start = event_date %}{% assign event_end = "" %}{% assign event_has_time = false %}{% if event.time %}{% assign event_has_time = true %}{% assign event_times = event.time | split: "-" %}{% assign event_start_time = event_times | first | strip | replace: ":", "" %}{% assign event_start = event_date | append: "T" | append: event_start_time | append: "00" %}{% if event.time contains "-" %}{% assign event_end_time = event_times | last | strip | replace: ":", "" %}{% assign event_end = event_date | append: "T" | append: event_end_time | append: "00" %}{% endif %}{% endif %}{% if event.end_date %}{% assign event_end = event.end_date | date: "%Y%m%d" %}{% endif %}{% assign event_description = event.description | default: "" | replace: ';', '\;' | replace: ',', '\,' %}{% assign event_location = event.location | default: "" | replace: ';', '\;' | replace: ',', '\,' %}{% assign event_title = event.title | replace: ';', '\;' | replace: ',', '\,' %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}-{{ event.title | slugify }}@sysilviakim.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+{% if event_has_time %}DTSTART;TZID=Asia/Seoul:{{ event_start }}
+{% else %}DTSTART;VALUE=DATE:{{ event_start }}
+{% endif %}{% if event_end != "" %}{% if event_has_time %}DTEND;TZID=Asia/Seoul:{{ event_end }}
+{% else %}DTEND;VALUE=DATE:{{ event_end }}
+{% endif %}
+{% endif %}SUMMARY:{{ event_title }}
+{% if event_location != "" %}LOCATION:{{ event_location }}
+{% endif %}{% if event_description != "" %}DESCRIPTION:{{ event_description }}{% if event.organizer %}\nOrganizer: {{ event.organizer }}{% endif %}
+{% elsif event.organizer %}DESCRIPTION:Organizer: {{ event.organizer }}
+{% endif %}{% if event.link %}URL:{{ event.link }}
+{% endif %}END:VEVENT
+{% endfor %}{% endif %}END:VCALENDAR
