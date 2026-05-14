@@ -86,6 +86,68 @@ full-width: true
   margin-top: 1rem;
 }
 
+.events-timeline {
+  border-left: 2px solid #ddd;
+  margin-top: 1rem;
+  padding-left: 1rem;
+}
+
+.events-year {
+  margin: 0 0 1rem;
+  position: relative;
+}
+
+.events-year::before {
+  background: #fff;
+  border: 2px solid #bbb;
+  border-radius: 50%;
+  content: "";
+  height: 0.75rem;
+  left: -1.45rem;
+  position: absolute;
+  top: 0.75rem;
+  width: 0.75rem;
+}
+
+.events-year > summary {
+  cursor: pointer;
+  display: block;
+  list-style: none;
+  padding: 0.5rem 0;
+}
+
+.events-year > summary::-webkit-details-marker {
+  display: none;
+}
+
+.events-year-summary {
+  align-items: baseline;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: space-between;
+}
+
+.events-year-summary h3 {
+  margin: 0;
+}
+
+.events-year-toggle {
+  color: #777;
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.events-year[open] .events-year-toggle {
+  transform: rotate(45deg);
+}
+
+.events-year-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
 .event-card {
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -216,12 +278,29 @@ full-width: true
         <span class="events-section-toggle" aria-hidden="true">+</span>
       </div>
     </summary>
-    <div class="events-list">
+    <div class="events-timeline">
 {% assign past_count = 0 %}
+{% assign current_year = "" %}
 {% for event in events reversed %}
 {% assign event_date = event.date | date: "%Y-%m-%d" %}
 {% if event_date < today %}
 {% assign past_count = past_count | plus: 1 %}
+{% assign event_year = event.date | date: "%Y" %}
+{% if event_year != current_year %}
+{% if current_year != "" %}
+      </div>
+    </details>
+{% endif %}
+{% assign current_year = event_year %}
+    <details class="events-year">
+      <summary>
+        <div class="events-year-summary">
+          <h3>{{ event_year }}</h3>
+          <span class="events-year-toggle" aria-hidden="true">+</span>
+        </div>
+      </summary>
+      <div class="events-year-list">
+{% endif %}
       <details class="event-card event-details">
         <summary>
           <div class="event-summary-title">
@@ -247,6 +326,10 @@ full-width: true
       </details>
 {% endif %}
 {% endfor %}
+{% if current_year != "" %}
+      </div>
+    </details>
+{% endif %}
 {% if past_count == 0 %}
       <p class="events-empty">No past events are currently listed.</p>
 {% endif %}
