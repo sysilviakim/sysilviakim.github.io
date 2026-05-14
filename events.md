@@ -198,7 +198,7 @@ full-width: true
 {% if event.description %}
         <p class="event-description">{{ event.description }}</p>
 {% endif %}
-{% if event.link %}
+{% if event.link and event.organizer != "SWERP" %}
         <p><a href="{{ event.link }}">Event link</a></p>
 {% endif %}
       </article>
