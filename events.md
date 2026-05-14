@@ -47,6 +47,38 @@ full-width: true
   margin-top: 2.5rem;
 }
 
+.events-section-details > summary {
+  cursor: pointer;
+  display: block;
+  list-style: none;
+}
+
+.events-section-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.events-section-summary {
+  align-items: baseline;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: space-between;
+}
+
+.events-section-summary h2 {
+  margin-bottom: 0;
+}
+
+.events-section-toggle {
+  color: #777;
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.events-section-details[open] .events-section-toggle {
+  transform: rotate(45deg);
+}
+
 .events-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -177,37 +209,49 @@ full-width: true
     </div>
   </section>
 
-  <section class="events-section" aria-labelledby="past-events">
-    <h2 id="past-events">Past Events</h2>
+  <details class="events-section events-section-details">
+    <summary>
+      <div class="events-section-summary">
+        <h2 id="past-events">Past Events</h2>
+        <span class="events-section-toggle" aria-hidden="true">+</span>
+      </div>
+    </summary>
     <div class="events-list">
 {% assign past_count = 0 %}
 {% for event in events reversed %}
 {% assign event_date = event.date | date: "%Y-%m-%d" %}
 {% if event_date < today %}
 {% assign past_count = past_count | plus: 1 %}
-      <article class="event-card">
-        <h3>{{ event.title }}</h3>
-        <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }} KST{% endif %}</p>
+      <details class="event-card event-details">
+        <summary>
+          <div class="event-summary-title">
+            <h3>{{ event.title }}</h3>
+            <span class="event-toggle" aria-hidden="true">+</span>
+          </div>
+          <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }} KST{% endif %}</p>
+        </summary>
+        <div class="event-details-body">
 {% if event.location %}
-        <p class="event-meta">{{ event.location }}</p>
+          <p class="event-meta">{{ event.location }}</p>
 {% endif %}
 {% if event.organizer %}
-        <p class="event-meta">Organizer: {{ event.organizer }}</p>
+          <p class="event-meta">Organizer: {{ event.organizer }}</p>
 {% endif %}
 {% if event.description %}
-        <p class="event-description">{{ event.description }}</p>
+          <p class="event-description">{{ event.description }}</p>
 {% endif %}
 {% if event.link and event.organizer != "SWERP" %}
-        <p><a href="{{ event.link }}">Event link</a></p>
+          <p><a href="{{ event.link }}">Event link</a></p>
 {% endif %}
-      </article>
+        </div>
+      </details>
 {% endif %}
 {% endfor %}
 {% if past_count == 0 %}
       <p class="events-empty">No past events are currently listed.</p>
 {% endif %}
     </div>
-  </section>
+  </details>
 {% else %}
   <p class="events-empty">No events are currently listed.</p>
 {% endif %}
