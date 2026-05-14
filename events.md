@@ -43,6 +43,20 @@ full-width: true
   border-color: {{ site.hover-col | default: "#0085A1" }};
 }
 
+.fc .events-calendar-entry {
+  line-height: 1.2;
+  white-space: normal;
+}
+
+.fc .events-calendar-time,
+.fc .events-calendar-title {
+  display: block;
+}
+
+.fc .events-calendar-time {
+  font-weight: 700;
+}
+
 .events-section {
   margin-top: 2.5rem;
 }
@@ -353,6 +367,31 @@ document.addEventListener("DOMContentLoaded", function () {
     initialView: "dayGridMonth",
     height: "auto",
     timeZone: "Asia/Seoul",
+    eventTimeFormat: {
+      hour: "numeric",
+      meridiem: "narrow"
+    },
+    eventContent: function (info) {
+      var wrapper = document.createElement("span");
+      wrapper.className = "events-calendar-entry";
+
+      if (info.timeText) {
+        var time = document.createElement("span");
+        time.className = "events-calendar-time";
+        time.textContent = info.timeText
+          .replace(":00", "")
+          .replace(/\s*AM$/i, "a")
+          .replace(/\s*PM$/i, "p");
+        wrapper.appendChild(time);
+      }
+
+      var title = document.createElement("span");
+      title.className = "events-calendar-title";
+      title.textContent = info.event.title;
+      wrapper.appendChild(title);
+
+      return { domNodes: [wrapper] };
+    },
     events: "{{ '/events.json' | relative_url }}",
     eventClick: function (info) {
       if (info.event.url) {
