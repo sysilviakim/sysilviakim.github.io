@@ -54,6 +54,7 @@ full-width: true
   border-radius: 8px;
   padding: 1rem;
   background: #fff;
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
 }
 
 .event-card h3 {
@@ -61,9 +62,51 @@ full-width: true
   margin-bottom: 0.5rem;
 }
 
+.event-details {
+  padding: 0;
+}
+
+.event-details summary {
+  cursor: pointer;
+  display: block;
+  list-style: none;
+  padding: 1rem;
+}
+
+.event-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.event-summary-title {
+  align-items: baseline;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: space-between;
+}
+
+.event-summary-title h3 {
+  margin: 0;
+}
+
+.event-toggle {
+  color: #777;
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.event-details[open] .event-toggle {
+  transform: rotate(45deg);
+}
+
+.event-details-body {
+  border-top: 1px solid #eee;
+  padding: 0 1rem 1rem;
+}
+
 .event-meta {
   color: #666;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
   font-size: 0.95rem;
   margin: 0.25rem 0;
 }
@@ -97,22 +140,29 @@ full-width: true
 {% assign event_date = event.date | date: "%Y-%m-%d" %}
 {% if event_date >= today %}
 {% assign upcoming_count = upcoming_count | plus: 1 %}
-      <article class="event-card">
-        <h3>{{ event.title }}</h3>
-        <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }}{% endif %}</p>
+      <details class="event-card event-details">
+        <summary>
+          <div class="event-summary-title">
+            <h3>{{ event.title }}</h3>
+            <span class="event-toggle" aria-hidden="true">+</span>
+          </div>
+          <p class="event-meta">{{ event.date | date: "%B %-d, %Y" }}{% if event.time %}, {{ event.time }}{% endif %}</p>
+        </summary>
+        <div class="event-details-body">
 {% if event.location %}
-        <p class="event-meta">{{ event.location }}</p>
+          <p class="event-meta">{{ event.location }}</p>
 {% endif %}
 {% if event.organizer %}
-        <p class="event-meta">Organizer: {{ event.organizer }}</p>
+          <p class="event-meta">Organizer: {{ event.organizer }}</p>
 {% endif %}
 {% if event.description %}
-        <p class="event-description">{{ event.description }}</p>
+          <p class="event-description">{{ event.description }}</p>
 {% endif %}
 {% if event.link %}
-        <p><a href="{{ event.link }}">More information / RSVP</a></p>
+          <p><a href="{{ event.link }}">More information / RSVP</a></p>
 {% endif %}
-      </article>
+        </div>
+      </details>
 {% endif %}
 {% endfor %}
 {% if upcoming_count == 0 %}
