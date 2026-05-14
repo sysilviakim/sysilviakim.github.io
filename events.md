@@ -43,8 +43,21 @@ full-width: true
   border-color: {{ site.hover-col | default: "#0085A1" }};
 }
 
+.fc .fc-daygrid-event,
+.fc .fc-daygrid-event-harness,
+.fc .fc-event-main,
+.fc .fc-event-main-frame,
+.fc .fc-event-title-container,
+.fc .fc-event-title {
+  min-width: 0;
+  white-space: normal;
+}
+
 .fc .events-calendar-entry {
+  display: block;
   line-height: 1.2;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   white-space: normal;
 }
 
@@ -372,11 +385,11 @@ document.addEventListener("DOMContentLoaded", function () {
       meridiem: "narrow"
     },
     eventContent: function (info) {
-      var wrapper = document.createElement("span");
+      var wrapper = document.createElement("div");
       wrapper.className = "events-calendar-entry";
 
       if (info.timeText) {
-        var time = document.createElement("span");
+        var time = document.createElement("div");
         time.className = "events-calendar-time";
         time.textContent = info.timeText
           .replace(":00", "")
@@ -385,7 +398,7 @@ document.addEventListener("DOMContentLoaded", function () {
         wrapper.appendChild(time);
       }
 
-      var title = document.createElement("span");
+      var title = document.createElement("div");
       title.className = "events-calendar-title";
       title.textContent = info.event.title;
       wrapper.appendChild(title);
