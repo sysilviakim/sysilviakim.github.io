@@ -4,17 +4,10 @@ title: Syllabi
 published: true
 ---
 
-### KOSSDA Lectures
-- Computational Social Science: [syllabus](https://kossda.methods.snu.ac.kr/course/course_view.jsp?id=197197&cid=#course-view-197197)
-  - [Week 1 slides](https://www.dropbox.com/scl/fi/zhbi1ng0n032rkcf8i08s/week1.pdf?rlkey=1eaxs77djaemjstgcvjeyn9ef&raw=1)
-  - [Week 2 slides](https://www.dropbox.com/scl/fi/t50egf0286ey7ld6jbp1s/week2.pdf?rlkey=amsomo2lwpvnb1kqczm7l22nb&raw=1)
-  - [Week 3 slides](https://www.dropbox.com/scl/fi/vttf7wnfkv8uvt8kuuc4t/week3.pdf?rlkey=dqopswhdwy7dpc1slr0gs5poy&raw=1)
-  - [Week 4 slides](https://www.dropbox.com/scl/fi/ncrnw62zfzoq7bhsy5fjw/week4.pdf?rlkey=j8czzromeiuxs7s4fe5zq33vu&raw=1).
-
 ### Seoul National University
 - [Master's/PhD] Research Methods for Political Science and International Relations 2 (PSIR 216.502): Fall 2025 [Syllabus](https://www.dropbox.com/scl/fi/2poo5tmod4xmtlduidb6e/syllabus-kim-psir-216-502.pdf?rlkey=6tdlb2bt54ezmftqq0464zcnd&st=b2q6veux&raw=1).
   - [Week 1 slides](https://www.dropbox.com/scl/fi/cxxqis93tfu3c2oygi8kz/module1.pdf?rlkey=xg9arhjv1hzh30wjkjzbcoy6t&st=42yhjxk0&raw=1)
-- [Master's] Dissertation Research: Fall 2024.
+- [Master's] Dissertation Research: Fall 2024, Spring 2025.
 
 ### Sogang University
 
