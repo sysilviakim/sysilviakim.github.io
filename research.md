@@ -19,7 +19,8 @@ For a full list of publications, please see my [CV](https://sysilviakim.com/cv/)
     - [Replication archive](https://doi.org/10.7910/DVN/UCTXEF)
     - [rankingQ package](https://github.com/sysilviakim/rankingQ)
 - Kim, Seo-young Silvia, and Zhao Li. 2025. ["Keep Winning with WinRed? Digital Fundraising Platform as the Party’s Public Good."](https://doi.org/10.1086/735435) Journal of Politics.
-    - [Replication archive](https://doi.org/10.7910/DVN/742910) 
+    - [Replication archive](https://doi.org/10.7910/DVN/742910)
+    - [SNU ISS presentation slides](https://www.dropbox.com/scl/fi/s6nfq8cqq3ndjokxmtazy/20260602.pdf?rlkey=82zv3cuvojn0z0ko6eqp9i4xw&raw=1) (in Korean).
 - Kim, Seo-young Silvia, Jan Zilinsky, and Brian Brew. 2024. ["Donate To Help Us Fight Back: Mobilization Rhetoric in Political Fundraising."](https://doi.org/10.1177/13540688241235901) Party Politics.
 - Kim, Seo-young Silvia, and Jan Zilinsky. 2024. ["Division Does Not Imply Predictability: Demographics Continue to Reveal Little About Voting and Partisanship."](https://doi.org/10.1007/s11109-022-09816-z) Political Behavior. 46(1):67-87.
     - [Replication archive](https://github.com/sysilviakim/surveyML)
