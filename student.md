@@ -4,6 +4,13 @@ title: Student Resources
 published: true
 ---
 
+#### Writing for Social Scientists (in Korean)
+
+This has not been taught as an official class yet. The slides may be updated without notice.
+* [Module 1: project design and writing habits](https://www.dropbox.com/scl/fi/s311upxu6q2kcnd4bii9j/writing-module1.pdf?rlkey=1o3vbg136fdp21o70ja7xkghc&raw=1)
+* [Module 2: writing the first draft](https://www.dropbox.com/scl/fi/3j2mh11k8pw90ly5faug7/writing-module2.pdf?rlkey=hofj2pa3an5woqz316rw5a8ze&raw=1)
+* [Module 3: revision, presentation, and submission](https://www.dropbox.com/scl/fi/idg4l21v11l48grcx0zde/writing-module3.pdf?rlkey=7bbb9xmr5ftxr4yburge18rur&raw=1)
+
 #### Thoughts on AI and Social Science
 
 [Presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
