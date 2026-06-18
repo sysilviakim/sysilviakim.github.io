@@ -15,7 +15,7 @@ published: true
 
 **I. Beginner-friendly Learning Materials**
 
-* How to install R, RStudio, and R packages: [a learnr tutorial](https://learnr-examples.shinyapps.io/ex-setup-r/#section-install-r).
+* How to install R, an R development environment (e.g., RStudio), and R packages: [a learnr tutorial](https://learnr-examples.shinyapps.io/ex-setup-r/#section-install-r).
 * Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. [**R for Data Science**. 2nd ed. O'Reilly Media, Inc., 2023](https://r4ds.hadley.nz/).
 * [fasteR: Fast Lane to Learning R!](https://github.com/matloff/fasteR#overview) by Norm Matloff.
 * You can use [swirl](https://swirlstats.com/) to learn base R interactively. There are various courses that can be installed by swirl, including my [swirl-tidy](https://github.com/sysilviakim/swirl-tidy) lesson that helps you learn tidyverse. For a quick installation guide, see [here](https://gist.github.com/sysilviakim/03f266e4c542f0aade858df4dd629b82).
@@ -27,26 +27,25 @@ published: true
 Before you start seeking help:
 
 1. Take a deep breath and accept that learning to debug is (highly likely) a painful, grueling process that has a steep learning curve. You will likely have to go through many frustrating minutes, hours, or even days! It gets better, but with some heavy investment.
-2. (Slightly outdated advice now) **Create a [Stack Overflow](https://stackoverflow.com) account.**
+2. (Outdated advice now, RIP Stack Overflow) **Create a [Stack Overflow](https://stackoverflow.com) account.**
    * It will help you leave a trail of what worked for you, in terms of upvotes and bookmarks. 
    * You will learn [how to ask a "good question."](https://stackoverflow.com/help/how-to-ask)
    * You will become familiar with the concept of a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
 
 Now that you've braced yourself, 
-* Google the error message. 90%+ of the time, the question has already been asked on [Stack Overflow](https://stackoverflow.com). Save yourself some tokens if you're reliant on LLMs.
-* Use an LLM assistant ([Claude](https://claude.ai), [ChatGPT](https://chatgpt.com), etc.) to help debug errors, explain code, or generate examples. Most handle R quite well.
-* Modern IDEs now have AI assistants built in: [GitHub Copilot](https://github.com/features/copilot) integrates with RStudio and VSCode, for example.
+* Google the error message. 90%+ of the time, the question has already been asked on [Stack Overflow](https://stackoverflow.com).
+* Ask an AI assistant such as Claude or ChatGPT. Give it the code and the message; most handle R quite well. Modern IDEs now have AI assistants built in: [GitHub Copilot](https://github.com/features/copilot) integrates with RStudio and VSCode, for example.
 
-Note that AI-generated answers may not always be accurate, especially for statistical methods. Verify outputs for correctness. In addition, relying fully on AI especially for auto-completing tasks may only make you artificially intelligent at best. (Ouch!)
+Note that AI-generated answers may not always be accurate, especially for statistical methods. Verify outputs for correctness. In addition, relying fully on AI especially for auto-completing tasks may only make you irrelevant and artificially intelligent at best. (Ouch!) Use AI to learn, not to avoid learning.
 
 -----------------------------------------------------------
 
 **III. Advanced Steps**
 
 * This is a good resource for those now familiar with R4Ds: Wickham, Hadley. [**Advanced R**. 2nd ed. Chapman and Hall/CRC, 2019](https://adv-r.hadley.nz/).
-* **Comment generously!** You will *not* be able to remember what you were doing without ample commenting, nor will other people be able to understand your code.
-* Never save/restore .RData. In fact, uncheck "Restore most recently opened project at startup," "Restore previously open source documents at startup," "Restore .RData into workspace at startup", and "Always save history." Finally, set "save workspace to .RData on exit" to "Never."
+* **Comment generously!** You will *not* be able to remember what you were doing without ample commenting, nor will other people be able to understand your code. It'll also help your AI assistant understand your intent.
+* Avoid workflows that rely on restoring old workspace state. Your analysis should run from a fresh session using only the files contained in the project. If you use RStudio, uncheck "Restore most recently opened project at startup," "Restore previously open source documents at startup," "Restore .RData into workspace at startup," and "Always save history." Finally, set "Save workspace to .RData on exit" to "Never."
 * Form each data analysis into a **project**, use `here::here()` as opposed to `setwd`, and be mindful of the [project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) and reproducibility.
 * **Please** use the [`styler`](https://github.com/r-lib/styler) package, which makes it very easy to style your code consistently. 
-* Using [`assertthat`](https://github.com/hadley/assertthat), insert unit tests/sanity checks for your dataset so that you catch mistakes quickly. For example, you could preemptively detect and warn about duplicates, missing values, wrong number of rows, proportions going below 0 or over 1, wrong class or implicit coercions, ...
+* Insert unit tests/sanity checks throughout your workflow so you catch mistakes quickly. `stopifnot()` requires no additional packages, while packages such as [`assertthat`](https://github.com/hadley/assertthat) provide more informative error messages. Preemptively detect duplicates, missing values, unexpected numbers of rows, proportions below 0 or above 1, incorrect classes, implicit coercions, and so on. A simple assertion can catch an (AI-introduced) bug before it affects your results.
 * Read [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns with [summary slides](https://infernotes.netlify.app/#1) by Maya Gans.
