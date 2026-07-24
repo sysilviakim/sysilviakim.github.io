@@ -5,9 +5,11 @@ published: true
 ---
 
 ### Seoul National University
-- [Master's/PhD] Research Methods for Political Science and International Relations 2 (PSIR 216.502): Fall 2025 [Syllabus](https://www.dropbox.com/scl/fi/2poo5tmod4xmtlduidb6e/syllabus-kim-psir-216-502.pdf?rlkey=6tdlb2bt54ezmftqq0464zcnd&st=b2q6veux&raw=1).
+- [Undergraduate] American Politics: Fall 2026 [Syllabus](https://www.dropbox.com/scl/fi/fsnnv4h7qis26idt7dobt/216a-323-syllabus-kim.pdf?rlkey=3nnzz272p7aalor8ouf3llw5p&st=ektk84jl&raw=1).
+- [Undergraduate] Undergraduate Research Methods for Political Science and International Relations 2: Spring 2026 [Syllabus](https://www.dropbox.com/scl/fi/fgled52epahmo0j1jj24n/m1319-002100-syllabus-kim.pdf?rlkey=pbh46u1q5rabev6nkfokfa50e&st=jxe6uku8&raw=1).
+- [Master's/PhD] Research Methods for Political Science and International Relations 2 (PSIR 216.502): Fall 2025, Fall 2026 [Syllabus](https://www.dropbox.com/scl/fi/ruw89977z5p9qjcw8ub9s/psir-216502-syllabus-kim.pdf?rlkey=ayoqn5x4e47xe20g8k4e66fb2&st=gxdz9gn6&raw=1).
   - [Week 1 slides](https://www.dropbox.com/scl/fi/cxxqis93tfu3c2oygi8kz/module1.pdf?rlkey=xg9arhjv1hzh30wjkjzbcoy6t&st=42yhjxk0&raw=1)
-- [Master's] Dissertation Research: Fall 2024, Spring 2025.
+- [Master's] Dissertation Research: Fall 2024, Fall 2025, Spring 2026, Fall 2026.
 
 ### Sogang University
 
