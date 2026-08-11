@@ -4,16 +4,19 @@ title: Student Resources
 published: true
 ---
 
-#### Writing for Social Scientists (in Korean)
+#### Slide deck: Quantitative Social Science Research with Agentic AI (KOSSDA 2026 Summer; in Korean)
+
+* [Module 1: Introduction to Agentic AI and Setting Things Up](https://www.dropbox.com/scl/fi/b3j6pnhozv0quo6tons9p/summer-module1.pdf?rlkey=igypm720gibpxb5snsrxkn0fa&raw=1)
+* [Module 2: Redesigning the Quantitative Research Pipeline with Agentic AI](https://www.dropbox.com/scl/fi/4ekut85dlp9nboo05r95g/summer-module2.pdf?rlkey=p8jylwuhj9lzztpbipk71mom3&raw=1)
+
+See also: [presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
+
+#### Slide deck: Writing for Social Scientists (in Korean)
 
 This has not been taught as an official class yet. The slides may be updated without notice.
 * [Module 1: project design and writing habits](https://www.dropbox.com/scl/fi/s311upxu6q2kcnd4bii9j/writing-module1.pdf?rlkey=1o3vbg136fdp21o70ja7xkghc&raw=1)
 * [Module 2: writing the first draft](https://www.dropbox.com/scl/fi/3j2mh11k8pw90ly5faug7/writing-module2.pdf?rlkey=hofj2pa3an5woqz316rw5a8ze&raw=1)
 * [Module 3: revision, presentation, and submission](https://www.dropbox.com/scl/fi/idg4l21v11l48grcx0zde/writing-module3.pdf?rlkey=7bbb9xmr5ftxr4yburge18rur&raw=1)
-
-#### Thoughts on AI and Social Science
-
-[Presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
 
 #### Assignment Guidelines, Templates, and Research/Writing Best Practices
 
