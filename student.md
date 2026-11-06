@@ -4,6 +4,13 @@ title: Student Resources
 published: true
 ---
 
+#### KOSSDA Fall 2026 Lecture: Social Science Research with Agentic AI
+
+- [Week 1](https://www.dropbox.com/scl/fi/m8r6b0zcjhpurr0y7spfq/fall-week1.pdf?rlkey=j0trgon723br1ati0ivbsy47s&raw=1)
+- Week 2
+- Week 3
+- Week 4
+
 #### Slide decks on AI Usage
 
 - [Presentation slides](https://www.dropbox.com/scl/fi/66c0exfhdo0w14992pifg/kossda-data-fair-kim.pdf?rlkey=968lnz8ks67eh28dmv1mdf23i&raw=1) at KOSSDA Data Fair, Seoul National University, Oct 23, 2026.
