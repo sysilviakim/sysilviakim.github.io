@@ -4,12 +4,10 @@ title: Student Resources
 published: true
 ---
 
-#### Slide deck: Quantitative Social Science Research with Agentic AI (KOSSDA 2026 Summer; in Korean)
+#### Slide decks on AI Usage
 
-* [Module 1: Introduction to Agentic AI and Setting Things Up](https://www.dropbox.com/scl/fi/b3j6pnhozv0quo6tons9p/summer-module1.pdf?rlkey=igypm720gibpxb5snsrxkn0fa&raw=1)
-* [Module 2: Redesigning the Quantitative Research Pipeline with Agentic AI](https://www.dropbox.com/scl/fi/4ekut85dlp9nboo05r95g/summer-module2.pdf?rlkey=p8jylwuhj9lzztpbipk71mom3&raw=1)
-
-See also: [presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
+- [Presentation slides](https://www.dropbox.com/scl/fi/66c0exfhdo0w14992pifg/kossda-data-fair-kim.pdf?rlkey=968lnz8ks67eh28dmv1mdf23i&raw=1) at KOSSDA Data Fair, Seoul National University, Oct 23, 2026.
+- [Presentation slides](https://www.dropbox.com/scl/fi/um2wovam0mgtpynmw76x4/ai-social-science-2026-typo-fixed.pdf?rlkey=w10z2iv6nkrxa8thnw9861jg2&st=kf5kl51v&raw=1) at the Institute of Social Sciences, Seoul National University, Apr 27, 2026.
 
 #### Slide deck: Writing for Social Scientists (in Korean)
 
