@@ -6,10 +6,10 @@ published: true
 
 #### KOSSDA Fall 2026 Lecture: Social Science Research with Agentic AI
 
-- [Week 1](https://www.dropbox.com/scl/fi/m8r6b0zcjhpurr0y7spfq/fall-week1.pdf?rlkey=j0trgon723br1ati0ivbsy47s&raw=1)
-- Week 2
-- Week 3
-- Week 4
+- [Week 1](https://www.dropbox.com/scl/fi/m8r6b0zcjhpurr0y7spfq/fall-week1.pdf?rlkey=j0trgon723br1ati0ivbsy47s&st=ij1pqzv2&raw=1)
+- [Week 2](https://www.dropbox.com/scl/fi/dytb5f4j1ksvd8v9dq6ye/fall-week2.pdf?rlkey=y9ecd20zwzv0w1b8miogfc652&st=kr3yuo1c&raw=1)
+- [Week 3](https://www.dropbox.com/scl/fi/0wpdphnmqxyznbvbtn1zl/fall-week3.pdf?rlkey=0vs4oqeay8b5dvx1ipgkzwno6&st=0s9tygqr&raw=1)
+- [Week 4](https://www.dropbox.com/scl/fi/aj9jg07cfwi9l1gg2um2p/fall-week4.pdf?rlkey=1347lsx55uplgri2hsr3kh3uq&st=d3f5vnud&raw=1)
 
 #### Slide decks on AI Usage
 
