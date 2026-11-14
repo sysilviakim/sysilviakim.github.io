@@ -10,6 +10,7 @@ published: true
 - [Week 2](https://www.dropbox.com/scl/fi/dytb5f4j1ksvd8v9dq6ye/fall-week2.pdf?rlkey=y9ecd20zwzv0w1b8miogfc652&st=kr3yuo1c&raw=1)
 - [Week 3](https://www.dropbox.com/scl/fi/0wpdphnmqxyznbvbtn1zl/fall-week3.pdf?rlkey=0vs4oqeay8b5dvx1ipgkzwno6&st=0s9tygqr&raw=1)
 - [Week 4](https://www.dropbox.com/scl/fi/aj9jg07cfwi9l1gg2um2p/fall-week4.pdf?rlkey=1347lsx55uplgri2hsr3kh3uq&st=d3f5vnud&raw=1)
+- [Lab material](https://www.dropbox.com/scl/fi/mpvpelpri2107sjjysoql/kossda-lab.zip?rlkey=v3wue5f9r6qhmzdwv0zpis6dv&st=isqa8xvo&dl=0)
 
 #### Slide decks on AI Usage
 
