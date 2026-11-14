@@ -1,6 +1,6 @@
 # Site cleanup and upstream beautiful-jekyll sync (combined plan)
 
-**Status:** ACTIVE (approved 2026-11-14)
+**Status:** DONE (approved and deployed 2026-11-14)
 **Date:** 2026-11-14
 
 ---
@@ -107,7 +107,7 @@ After your approval of step 11: merge, push `main`, confirm the Pages deploy run
 
 ---
 
-## 5. Results so far (2026-11-14)
+## 5. Results before the merge (2026-11-14)
 
 Steps 1 to 10 are done on branch `sync-upstream` (pushed). Step 11, the merge into `main`, is waiting for approval, so the status stays ACTIVE.
 
@@ -132,3 +132,29 @@ Steps 1 to 10 are done on branch `sync-upstream` (pushed). Step 11, the merge in
 - `external-events/` exclusion and the full event list: both exist only in the `pages.yml` deploy build.
 - Links built with `absolute_url` point at sysilviakim.com in the preview.
 - The live site: nothing is deployed until `main` is updated.
+
+---
+
+## 6. Results after the merge (2026-11-14)
+
+Step 11 was approved ("merge"). `main` was fast-forwarded from `f18fdae` to `d4eb2a2` and pushed.
+
+**Deploy**
+- "Build and deploy Jekyll site" run `43555492685` on `d4eb2a2`: build and deploy jobs both succeeded. CI run `43555492833` also passed.
+- The deploy build log has no "Conflict: destination is shared" warning.
+
+**Live site (sysilviakim.com)**
+- 200: `/`, `/blog/`, `/blog/page2/`, `/events/`, `/events.json`, `/cv/`, the 2021 job-market post, `assets/data/searchcorpus.json`, and both `/files/` PDFs (`application/pdf`).
+- 404, as intended: `/external-events/`, `/external-events/events.yml`, `/staticman.yml`, the `.Rproj` file, the gemspec, and `reports/`.
+- `/blog/` lists 5 posts and `/blog/page2/` lists 3.
+- Homepage footer: Font Awesome 6.5.2, Scholar `citations?user=lbvTrNIAAAAJ`, Bluesky and Buy Me a Coffee links, gtag `G-PSFHVWVBWE`, no `UA-` snippet.
+- Events page: `events.json` holds 38 events (the full list, not the fallback data). The calendar grid measures 900 by 582 with real table layout, and the footer sits below it. 38 past cards, 0 upcoming.
+
+**Still not verified**
+- Wide-table scrolling: no page has an HTML table other than the calendar.
+- Screenshots of the live site: the browser pane was hidden, so the live checks are HTTP status, page markup and measured layout, not a visual comparison.
+
+**Left as is**
+- `.github/maintenance-plan.md` is untracked and uncommitted.
+- Branch `sync-upstream` still exists locally and on GitHub.
+- Node.js 20 deprecation notices on `actions/checkout@v4`, `upload-artifact@v4` and `deploy-pages@v4` are not addressed.
