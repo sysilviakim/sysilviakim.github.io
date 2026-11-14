@@ -104,3 +104,31 @@ After your approval of step 11: merge, push `main`, confirm the Pages deploy run
 **Limits I will report**
 - `external-events/` exists only in the `pages.yml` build, so its exclusion is confirmed only after deploy.
 - The branch build uses fallback event data; the full event list is checked after deploy.
+
+---
+
+## 5. Results so far (2026-11-14)
+
+Steps 1 to 10 are done on branch `sync-upstream` (pushed). Step 11, the merge into `main`, is waiting for approval, so the status stays ACTIVE.
+
+**Verification results**
+- CI on `sync-upstream`: both runs passed (`be2ecdd`, then `e278c23`). The build log has no "Conflict: destination is shared" warning.
+- Pre-push checks passed: no conflict markers, no stale references, every "kept" file present, both `student.md` commits from GitHub present, `_config.yml` parses.
+- Built site (CI artifact, served locally): homepage, Syllabi and a post match the live site at 1280px. `/blog/` lists 5 posts and `/blog/page2/` lists 3, with working pager links. Search finds a post, and `searchcorpus.json` and `events.json` are valid JSON. Both `/files/` PDFs load. `staticman.yml`, the `.Rproj` file, the gemspec and `reports/` are absent from the build.
+- Footer: X, Bluesky and Buy Me a Coffee icons render; the Scholar URL is `citations?user=lbvTrNIAAAAJ`.
+- Mobile (375px): the menu opens, the Teaching dropdown stays open when tapped, and the menu collapses after tapping a destination. No sideways page overflow.
+
+**Fix round 1 of 3**
+- The merged theme CSS sets `table { display: block }`, which collapsed the events calendar grid to 4px high. Fixed in `events.md` with a page-local rule for `#events-calendar table`. Confirmed in the second build at desktop and mobile widths.
+
+**Deviations from the plan**
+- `events.md` was edited (not in the original file list), for the fix above.
+- Three of the 8 deletions (`docs/index.html`, `hello_world.jpeg`, `install-steps.gif`) came from the merge itself, since upstream had removed them.
+- The machine's deletion guard blocked a forced `git rm`, so the five upstream demo files were unstaged and sent to the Recycle Bin instead.
+- Upstream's `appraisal` development dependency was dropped from the gemspec along with `Appraisals`.
+
+**Not verified**
+- Wide-table scrolling: no page on the site has an HTML table other than the calendar.
+- `external-events/` exclusion and the full event list: both exist only in the `pages.yml` deploy build.
+- Links built with `absolute_url` point at sysilviakim.com in the preview.
+- The live site: nothing is deployed until `main` is updated.
