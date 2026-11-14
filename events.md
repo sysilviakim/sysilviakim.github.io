@@ -27,6 +27,13 @@ full-width: true
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/* The theme sets tables to display: block so wide ones scroll on mobile.
+   FullCalendar's grid needs real table layout or it collapses to zero height. */
+#events-calendar table {
+  display: table;
+  overflow-x: visible;
+}
+
 .events-actions {
   font-family: "Open Sans", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", Helvetica, Arial, sans-serif;
   margin: 0.75rem 0 0;
