@@ -2,7 +2,6 @@
 layout: page
 title: Seo-young Silvia Kim
 published: true
-use-site-title: true
 ---
 
 <div class="img">
@@ -13,6 +12,6 @@ Welcome! I am an Assistant Professor in the [Department of Political Science and
 
 I work on American politics, political methodology, and computational social sciences, with an emphasis on political behavior, election administration, and money in politics. I also build methods to calculate and address measurement biases in administrative data and surveys.
 
-I have publications at the [American Political Science Review](https://doi.org/10.1017/S0003055422000983), [The Journal of Politics](https://doi.org/10.1086/735435), [Political Analysis](https://doi.org/10.1017/pan.2024.33), [Political Behavior](https://link.springer.com/article/10.1007/s11109-022-09816-z), and others. You can find a copy of my CV [here](https://www.dropbox.com/s/9g6jjc4odrxwur6/kim-cv.pdf?raw=1) and my Google Scholar [here](https://scholar.google.com/citations?user=lbvTrNIAAAAJ&hl=en&authuser=1).
+I have publications at the [American Political Science Review](https://doi.org/10.1017/S0003055422000983), [The Journal of Politics](https://doi.org/10.1086/735435), [Political Analysis](https://doi.org/10.1017/pan.2024.33), [Political Behavior](https://link.springer.com/article/10.1007/s11109-022-09816-z), and others. You can find a copy of my CV [here](https://www.dropbox.com/scl/fi/negwu0ladq0qpx4ngtmp1/kim-cv.pdf?rlkey=xztq2cz3r4g0pw1u1xa4n26jx&st=nk0mx05f&raw=1) and my Google Scholar [here](https://scholar.google.com/citations?user=lbvTrNIAAAAJ&hl=en&authuser=1).
 
 p.s. I used em-dashes before generative AI came in. I won't be apologizing for my continued usage of em-dashes!

@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'R-Ladies Dallas Presentation: Reproducible R Workflows for Research Papers'
 ---
-I gave a talk today at R-Ladies Dallas via Zoom. The [meetup](https://www.meetup.com/rladies-dallas/events/275737054/) was recorded and a video is now available [here](https://www.youtube.com/watch?reload=9&v=j4oIJCdTO8Q). The slides are [here](/figs/rladies_dallas_reproducibility_20210125.pdf).
+I gave a talk today at R-Ladies Dallas via Zoom. The [meetup](https://www.meetup.com/rladies-dallas/events/275737054/) was recorded and a video is now available [here](https://www.youtube.com/watch?reload=9&v=j4oIJCdTO8Q). The slides are [here](/files/rladies_dallas_reproducibility_20210125.pdf).
 TL;DR you should not do the following things for reproducibility within and across research projects:
 1. Not working in an R project
 2. Not using Git (version control)
